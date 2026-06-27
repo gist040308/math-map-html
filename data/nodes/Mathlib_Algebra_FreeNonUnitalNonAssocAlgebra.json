@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.FreeNonUnitalNonAssocAlgebra", "short_name": "FreeNonUnitalNonAssocAlgebra", "kind": "theorem", "module": "Mathlib.Algebra.FreeNonUnitalNonAssocAlgebra", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Lie.Free"], "used_by_count": 2}]}

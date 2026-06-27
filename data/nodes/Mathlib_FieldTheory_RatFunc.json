@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.FieldTheory.RatFunc", "short_name": "RatFunc", "kind": "theorem", "module": "Mathlib.FieldTheory.RatFunc", "namespace": "Mathlib.FieldTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.FunctionField", "Mathlib.FieldTheory.Laurent", "Mathlib.RingTheory.Polynomial.Cyclotomic.Basic"], "used_by_count": 4}]}

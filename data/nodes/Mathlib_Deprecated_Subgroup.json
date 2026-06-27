@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Deprecated.Subgroup", "short_name": "Subgroup", "kind": "def", "module": "Mathlib.Deprecated.Subgroup", "namespace": "Mathlib.Deprecated", "doc_string": null, "source_range": null, "deps": ["Mathlib.Deprecated.Subring"], "used_by_count": 2}]}

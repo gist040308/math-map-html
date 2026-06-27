@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.FreeAlgebra", "short_name": "FreeAlgebra", "kind": "theorem", "module": "Mathlib.LinearAlgebra.FreeAlgebra", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.LinearAlgebra.TensorAlgebra.Basis"], "used_by_count": 5}]}

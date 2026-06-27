@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Computability.Primrec", "short_name": "Primrec", "kind": "def", "module": "Mathlib.Computability.Primrec", "namespace": "Mathlib.Computability", "doc_string": null, "source_range": null, "deps": ["Mathlib.Computability.Partrec", "Mathlib.Computability.Ackermann"], "used_by_count": 2}]}

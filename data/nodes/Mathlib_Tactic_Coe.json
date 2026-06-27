@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Coe", "short_name": "Coe", "kind": "def", "module": "Mathlib.Tactic.Coe", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common", "Mathlib.Init.Data.Bool.Lemmas", "Mathlib.Data.PNat.Defs"], "used_by_count": 0}]}

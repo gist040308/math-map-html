@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.LaurentSeries", "short_name": "LaurentSeries", "kind": "theorem", "module": "Mathlib.RingTheory.LaurentSeries", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.FieldTheory.RatFunc"], "used_by_count": 2}]}

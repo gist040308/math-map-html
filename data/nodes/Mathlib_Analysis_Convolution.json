@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Analysis.Convolution", "short_name": "Convolution", "kind": "theorem", "module": "Mathlib.Analysis.Convolution", "namespace": "Mathlib.Analysis", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.SpecialFunctions.Gamma.Beta", "Mathlib.Analysis.Calculus.BumpFunction.Convolution"], "used_by_count": 7}]}

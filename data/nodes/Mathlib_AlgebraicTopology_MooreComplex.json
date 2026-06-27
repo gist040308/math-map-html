@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicTopology.MooreComplex", "short_name": "MooreComplex", "kind": "theorem", "module": "Mathlib.AlgebraicTopology.MooreComplex", "namespace": "Mathlib.AlgebraicTopology", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicTopology.AlternatingFaceMapComplex"], "used_by_count": 3}]}

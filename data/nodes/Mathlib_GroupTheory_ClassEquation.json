@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.ClassEquation", "short_name": "ClassEquation", "kind": "theorem", "module": "Mathlib.GroupTheory.ClassEquation", "namespace": "Mathlib.GroupTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.RingTheory.LittleWedderburn"], "used_by_count": 4}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.Transfer", "short_name": "Transfer", "kind": "theorem", "module": "Mathlib.GroupTheory.Transfer", "namespace": "Mathlib.GroupTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.GroupTheory.SchurZassenhaus", "Mathlib.GroupTheory.Schreier"], "used_by_count": 2}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Combinatorics.Optimization.ValuedCSP", "short_name": "ValuedCSP", "kind": "theorem", "module": "Mathlib.Combinatorics.Optimization.ValuedCSP", "namespace": "Mathlib.Combinatorics.Optimization", "doc_string": null, "source_range": null, "deps": [], "used_by_count": 2}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.UrysohnsBounded", "short_name": "UrysohnsBounded", "kind": "theorem", "module": "Mathlib.Topology.UrysohnsBounded", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.TietzeExtension"], "used_by_count": 2}]}

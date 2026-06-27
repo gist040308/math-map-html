@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Maps", "short_name": "Maps", "kind": "theorem", "module": "Mathlib.Topology.Maps", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Constructions"], "used_by_count": 2}]}

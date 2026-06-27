@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Init.Core", "short_name": "Core", "kind": "def", "module": "Mathlib.Init.Core", "namespace": "Mathlib.Init", "doc_string": null, "source_range": null, "deps": ["Mathlib.Data.Prod.Basic", "Mathlib.Data.List.Basic"], "used_by_count": 2}]}

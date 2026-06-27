@@ -1,0 +1,331 @@
+/**
+ * frontend/ui/sidebar.css
+ * =========================
+ * 節點詳情側邊欄樣式。使用 CSS 變數配合深淺色模式（變數定義於 frontend/style.css）。
+ */
+
+#sidebar {
+  width: 280px;
+  flex-shrink: 0;
+  height: 100%;
+  overflow-y: auto;
+  background: var(--bg-panel);
+  border-left: 1px solid var(--border-color);
+  padding: 16px;
+  box-sizing: border-box;
+  font-size: 13px;
+  color: var(--text-primary);
+  transition: transform 200ms ease;
+}
+
+#sidebar.sidebar-hidden {
+  transform: translateX(100%);
+}
+
+/* ── 空狀態 ──────────────────────────────────────────────────────── */
+
+#sidebar-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 48px 8px;
+  color: var(--text-muted);
+}
+
+.sidebar-empty-icon {
+  font-size: 32px;
+  margin-bottom: 12px;
+  opacity: 0.4;
+}
+
+.sidebar-empty-title {
+  font-weight: 600;
+  margin: 0 0 8px;
+  color: var(--text-secondary);
+}
+
+.sidebar-empty-desc {
+  font-size: 12px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* ── 內容區 ──────────────────────────────────────────────────────── */
+
+#sidebar-content {
+  opacity: 0;
+}
+
+#sidebar-content.fade-in {
+  opacity: 1;
+  transition: opacity 200ms ease;
+}
+
+#node-header {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 12px;
+}
+
+.kind-badge {
+  display: inline-block;
+  align-self: flex-start;
+  font-size: 11px;
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.kind-badge[data-kind="theorem"], .kind-badge[data-kind="lemma"] {
+  background: var(--kind-theorem-bg); color: var(--kind-theorem-text);
+}
+.kind-badge[data-kind="def"], .kind-badge[data-kind="structure"], .kind-badge[data-kind="opaque"] {
+  background: var(--kind-def-bg); color: var(--kind-def-text);
+}
+.kind-badge[data-kind="class"], .kind-badge[data-kind="instance"] {
+  background: var(--kind-class-bg); color: var(--kind-class-text);
+}
+.kind-badge[data-kind="axiom"] {
+  background: var(--kind-axiom-bg); color: var(--kind-axiom-text);
+}
+.kind-badge[data-kind="other"] {
+  background: var(--bg-subtle); color: var(--text-muted);
+}
+
+#node-short-name {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0;
+  word-break: break-word;
+}
+
+#node-full-id {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-muted);
+  cursor: pointer;
+  word-break: break-all;
+}
+
+#node-full-id:hover {
+  color: var(--accent-primary);
+}
+
+#node-module-line {
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-bottom: 12px;
+}
+
+#node-module-link {
+  color: var(--accent-primary);
+  text-decoration: none;
+}
+
+#node-module-link:hover {
+  text-decoration: underline;
+}
+
+/* ── 統計 ────────────────────────────────────────────────────────── */
+
+#node-stats {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.stat-item {
+  flex: 1;
+  background: var(--bg-subtle);
+  border-radius: 6px;
+  padding: 8px 4px;
+  text-align: center;
+}
+
+.stat-value {
+  display: block;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.stat-label {
+  display: block;
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+/* ── 文件字串 ────────────────────────────────────────────────────── */
+
+#node-docstring-wrap h3,
+#node-deps-wrap h3,
+#node-used-by-wrap h3 {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin: 16px 0 6px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.count-badge {
+  font-weight: 400;
+  color: var(--text-muted);
+}
+
+#node-docstring {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  line-height: 1.6;
+  background: var(--bg-subtle);
+  border-radius: 6px;
+  padding: 10px;
+  max-height: 160px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+}
+
+#node-docstring code {
+  background: var(--bg-code);
+  padding: 1px 4px;
+  border-radius: 3px;
+}
+
+.empty-text {
+  color: var(--text-muted);
+  font-style: italic;
+  margin: 0;
+}
+
+.error-text {
+  color: var(--accent-danger);
+  margin: 0;
+}
+
+/* ── 依賴 / 被引用清單 ───────────────────────────────────────────── */
+
+#node-deps, #node-used-by {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 200px;
+  overflow-y: auto;
+  border-radius: 6px;
+}
+
+.dep-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 6px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.dep-item:hover {
+  background: var(--bg-hover);
+}
+
+.dep-kind-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.dep-kind-dot[data-kind="theorem"], .dep-kind-dot[data-kind="lemma"], .dep-kind-dot[data-kind="axiom"] {
+  background: var(--kind-theorem-text);
+}
+.dep-kind-dot[data-kind="def"], .dep-kind-dot[data-kind="structure"], .dep-kind-dot[data-kind="opaque"] {
+  background: var(--kind-def-text);
+  border-radius: 2px;
+}
+.dep-kind-dot[data-kind="class"], .dep-kind-dot[data-kind="instance"] {
+  background: var(--kind-class-text);
+  border-radius: 2px;
+  transform: rotate(45deg);
+}
+
+.dep-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.link-btn {
+  background: none;
+  border: none;
+  color: var(--accent-primary);
+  font-size: 12px;
+  cursor: pointer;
+  padding: 6px 0;
+  text-align: left;
+}
+
+.link-btn:hover {
+  text-decoration: underline;
+}
+
+/* ── 快速操作 ────────────────────────────────────────────────────── */
+
+#node-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 18px;
+}
+
+.action-btn {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  border-radius: 6px;
+  padding: 7px 10px;
+  font-size: 12px;
+  cursor: pointer;
+  text-align: left;
+  transition: background 120ms ease;
+}
+
+.action-btn:hover {
+  background: var(--bg-hover);
+}
+
+.action-btn.flash {
+  background: var(--accent-success-bg);
+  color: var(--accent-success);
+}
+
+/* ── 骨架屏 ──────────────────────────────────────────────────────── */
+
+.skeleton {
+  background: linear-gradient(90deg, var(--bg-subtle) 25%, var(--bg-hover) 50%, var(--bg-subtle) 75%);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.4s ease infinite;
+  border-radius: 4px;
+}
+
+.skeleton-stats {
+  height: 48px;
+  width: 100%;
+}
+
+.skeleton-line {
+  height: 12px;
+  margin-bottom: 6px;
+}
+
+.skeleton-line.short {
+  width: 60%;
+}
+
+@keyframes skeleton-shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}

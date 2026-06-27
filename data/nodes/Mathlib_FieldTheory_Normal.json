@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.FieldTheory.Normal", "short_name": "Normal", "kind": "theorem", "module": "Mathlib.FieldTheory.Normal", "namespace": "Mathlib.FieldTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.FieldTheory.NormalClosure", "Mathlib.FieldTheory.Fixed", "Mathlib.FieldTheory.IsAlgClosed.Basic"], "used_by_count": 3}]}

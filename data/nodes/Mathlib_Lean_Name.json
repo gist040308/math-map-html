@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Lean.Name", "short_name": "Name", "kind": "def", "module": "Mathlib.Lean.Name", "namespace": "Mathlib.Lean", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.LibrarySearch", "Mathlib.Util.LongNames"], "used_by_count": 2}]}

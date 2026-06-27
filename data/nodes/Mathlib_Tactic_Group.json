@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Group", "short_name": "Group", "kind": "def", "module": "Mathlib.Tactic.Group", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Mathport.Syntax", "Mathlib.GroupTheory.Commutator", "Mathlib.GroupTheory.SpecificGroups.Cyclic"], "used_by_count": 3}]}

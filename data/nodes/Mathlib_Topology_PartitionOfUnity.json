@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.PartitionOfUnity", "short_name": "PartitionOfUnity", "kind": "theorem", "module": "Mathlib.Topology.PartitionOfUnity", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.Convex.PartitionOfUnity"], "used_by_count": 6}]}

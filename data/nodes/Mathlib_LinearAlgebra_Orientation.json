@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.Orientation", "short_name": "Orientation", "kind": "theorem", "module": "Mathlib.LinearAlgebra.Orientation", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.InnerProductSpace.Orientation", "Mathlib.Data.Complex.Orientation"], "used_by_count": 2}]}

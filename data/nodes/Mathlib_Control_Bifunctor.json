@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Control.Bifunctor", "short_name": "Bifunctor", "kind": "def", "module": "Mathlib.Control.Bifunctor", "namespace": "Mathlib.Control", "doc_string": null, "source_range": null, "deps": ["Mathlib.Logic.Equiv.Functor", "Mathlib.Control.Bitraversable.Basic"], "used_by_count": 3}]}

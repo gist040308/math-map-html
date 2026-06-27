@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.Vandermonde", "short_name": "Vandermonde", "kind": "theorem", "module": "Mathlib.LinearAlgebra.Vandermonde", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.RingTheory.Trace", "Mathlib.LinearAlgebra.Lagrange", "Mathlib.Data.Nat.Factorial.SuperFactorial"], "used_by_count": 5}]}

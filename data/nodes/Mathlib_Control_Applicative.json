@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Control.Applicative", "short_name": "Applicative", "kind": "def", "module": "Mathlib.Control.Applicative", "namespace": "Mathlib.Control", "doc_string": null, "source_range": null, "deps": ["Mathlib.Data.Vector.Basic", "Mathlib.Control.Traversable.Instances", "Mathlib.Control.Traversable.Lemmas", "Mathlib.Algebra.Free"], "used_by_count": 2}]}

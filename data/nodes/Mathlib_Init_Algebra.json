@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Init.Algebra.Classes", "short_name": "Classes", "kind": "def", "module": "Mathlib.Init.Algebra.Classes", "namespace": "Mathlib.Init.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Init.Order.Defs", "Mathlib.Init.Data.Ordering.Lemmas", "Mathlib.Logic.Basic", "Mathlib.Data.Option.Defs"], "used_by_count": 1}]}

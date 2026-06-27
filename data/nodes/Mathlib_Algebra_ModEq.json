@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.ModEq", "short_name": "ModEq", "kind": "theorem", "module": "Mathlib.Algebra.ModEq", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Order.ToIntervalMod"], "used_by_count": 2}]}

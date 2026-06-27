@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.FieldTheory.KrullTopology", "short_name": "KrullTopology", "kind": "theorem", "module": "Mathlib.FieldTheory.KrullTopology", "namespace": "Mathlib.FieldTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.FieldTheory.AbsoluteGaloisGroup"], "used_by_count": 4}]}

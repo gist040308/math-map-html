@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Init.Quot", "short_name": "Quot", "kind": "def", "module": "Mathlib.Init.Quot", "namespace": "Mathlib.Init", "doc_string": null, "source_range": null, "deps": ["Mathlib.Data.Multiset.Basic"], "used_by_count": 1}]}

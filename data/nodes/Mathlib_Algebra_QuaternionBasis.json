@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.QuaternionBasis", "short_name": "QuaternionBasis", "kind": "theorem", "module": "Mathlib.Algebra.QuaternionBasis", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.LinearAlgebra.CliffordAlgebra.Equivs"], "used_by_count": 2}]}

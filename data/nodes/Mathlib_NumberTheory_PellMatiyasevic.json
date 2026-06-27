@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.NumberTheory.PellMatiyasevic", "short_name": "PellMatiyasevic", "kind": "theorem", "module": "Mathlib.NumberTheory.PellMatiyasevic", "namespace": "Mathlib.NumberTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.Dioph"], "used_by_count": 4}]}

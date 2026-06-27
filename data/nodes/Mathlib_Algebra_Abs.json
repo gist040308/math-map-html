@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.Abs", "short_name": "Abs", "kind": "theorem", "module": "Mathlib.Algebra.Abs", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Order.Group.Abs"], "used_by_count": 2}]}

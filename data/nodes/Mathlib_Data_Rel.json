@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.Rel", "short_name": "Rel", "kind": "def", "module": "Mathlib.Data.Rel", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.RelSeries", "Mathlib.Combinatorics.SimpleGraph.Basic", "Mathlib.Combinatorics.Hall.Basic", "Mathlib.Data.PFun"], "used_by_count": 3}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicGeometry.GammaSpecAdjunction", "short_name": "GammaSpecAdjunction", "kind": "theorem", "module": "Mathlib.AlgebraicGeometry.GammaSpecAdjunction", "namespace": "Mathlib.AlgebraicGeometry", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicGeometry.AffineScheme"], "used_by_count": 3}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.Expr", "short_name": "Expr", "kind": "theorem", "module": "Mathlib.Algebra.Expr", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Data.Matrix.Auto"], "used_by_count": 1}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.ExtremallyDisconnected", "short_name": "ExtremallyDisconnected", "kind": "theorem", "module": "Mathlib.Topology.ExtremallyDisconnected", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Category.Stonean.Basic"], "used_by_count": 2}]}

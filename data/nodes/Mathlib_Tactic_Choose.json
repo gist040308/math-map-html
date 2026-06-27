@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Choose", "short_name": "Choose", "kind": "def", "module": "Mathlib.Tactic.Choose", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common", "Mathlib.Order.Monotone.Basic", "Mathlib.Mathport.Syntax"], "used_by_count": 2}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Antisymmetrization", "short_name": "Antisymmetrization", "kind": "lemma", "module": "Mathlib.Order.Antisymmetrization", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.Cover", "Mathlib.Order.Category.PartOrd", "Mathlib.Data.DFinsupp.WellFounded"], "used_by_count": 2}]}

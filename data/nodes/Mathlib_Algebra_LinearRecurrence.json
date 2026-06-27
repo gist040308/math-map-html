@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.LinearRecurrence", "short_name": "LinearRecurrence", "kind": "theorem", "module": "Mathlib.Algebra.LinearRecurrence", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Data.Real.GoldenRatio"], "used_by_count": 2}]}

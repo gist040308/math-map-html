@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Clopen", "short_name": "Clopen", "kind": "theorem", "module": "Mathlib.Topology.Clopen", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.AlexandrovDiscrete", "Mathlib.Topology.Connected.Basic"], "used_by_count": 2}]}

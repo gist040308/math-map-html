@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.DifferentialObject", "short_name": "DifferentialObject", "kind": "theorem", "module": "Mathlib.CategoryTheory.DifferentialObject", "namespace": "Mathlib.CategoryTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Homology.DifferentialObject"], "used_by_count": 3}]}

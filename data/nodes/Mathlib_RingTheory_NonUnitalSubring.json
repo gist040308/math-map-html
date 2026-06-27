@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.NonUnitalSubring.Basic", "short_name": "Basic", "kind": "theorem", "module": "Mathlib.RingTheory.NonUnitalSubring.Basic", "namespace": "Mathlib.RingTheory.NonUnitalSubring", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Algebra.NonUnitalSubalgebra"], "used_by_count": 2}]}

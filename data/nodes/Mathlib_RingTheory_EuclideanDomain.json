@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.EuclideanDomain", "short_name": "EuclideanDomain", "kind": "theorem", "module": "Mathlib.RingTheory.EuclideanDomain", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.FieldTheory.RatFunc", "Mathlib.Data.Polynomial.FieldDivision"], "used_by_count": 4}]}

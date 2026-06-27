@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.SMulWithZero", "short_name": "SMulWithZero", "kind": "theorem", "module": "Mathlib.Algebra.SMulWithZero", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.RingTheory.Multiplicity", "Mathlib.Algebra.Module.Basic", "Mathlib.Algebra.Tropical.Basic", "Mathlib.Algebra.Regular.SMul"], "used_by_count": 4}]}

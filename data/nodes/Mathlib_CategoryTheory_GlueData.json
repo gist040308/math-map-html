@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.GlueData", "short_name": "GlueData", "kind": "theorem", "module": "Mathlib.CategoryTheory.GlueData", "namespace": "Mathlib.CategoryTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Gluing"], "used_by_count": 5}]}

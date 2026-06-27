@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Probability.Cdf", "short_name": "Cdf", "kind": "theorem", "module": "Mathlib.Probability.Cdf", "namespace": "Mathlib.Probability", "doc_string": null, "source_range": null, "deps": ["Mathlib.Probability.Distributions.Exponential"], "used_by_count": 1}]}

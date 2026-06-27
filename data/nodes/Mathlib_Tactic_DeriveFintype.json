@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.DeriveFintype", "short_name": "DeriveFintype", "kind": "def", "module": "Mathlib.Tactic.DeriveFintype", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Geometry.Euclidean.Circumcenter", "Mathlib.Computability.TMToPartrec", "Mathlib.Computability.Language"], "used_by_count": 4}]}

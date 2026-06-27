@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Says", "short_name": "Says", "kind": "def", "module": "Mathlib.Tactic.Says", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common", "Mathlib.Init.Data.Nat.Bitwise", "Mathlib.Logic.Equiv.Set", "Mathlib.Data.Set.Intervals.Basic"], "used_by_count": 0}]}

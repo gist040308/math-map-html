@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Compactification.OnePoint", "short_name": "OnePoint", "kind": "theorem", "module": "Mathlib.Topology.Compactification.OnePoint", "namespace": "Mathlib.Topology.Compactification", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Instances.RatLemmas"], "used_by_count": 3}]}

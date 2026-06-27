@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.PropInstances", "short_name": "PropInstances", "kind": "lemma", "module": "Mathlib.Order.PropInstances", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.Heyting.Basic"], "used_by_count": 2}]}

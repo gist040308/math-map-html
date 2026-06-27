@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Qify", "short_name": "Qify", "kind": "def", "module": "Mathlib.Tactic.Qify", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Rify", "Mathlib.Mathport.Syntax", "Mathlib.NumberTheory.Pell", "Mathlib.GroupTheory.CommutingProbability"], "used_by_count": 3}]}

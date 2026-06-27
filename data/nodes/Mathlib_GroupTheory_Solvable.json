@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.Solvable", "short_name": "Solvable", "kind": "theorem", "module": "Mathlib.GroupTheory.Solvable", "namespace": "Mathlib.GroupTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.FieldTheory.AbelRuffini", "Mathlib.FieldTheory.Normal", "Mathlib.GroupTheory.Nilpotent"], "used_by_count": 5}]}

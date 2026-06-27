@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.InitialSeg", "short_name": "InitialSeg", "kind": "lemma", "module": "Mathlib.Order.InitialSeg", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.SetTheory.Ordinal.Basic"], "used_by_count": 3}]}

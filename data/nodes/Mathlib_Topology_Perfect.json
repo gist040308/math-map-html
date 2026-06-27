@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Perfect", "short_name": "Perfect", "kind": "theorem", "module": "Mathlib.Topology.Perfect", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Algebra.Module.Cardinality", "Mathlib.MeasureTheory.Constructions.Polish"], "used_by_count": 2}]}

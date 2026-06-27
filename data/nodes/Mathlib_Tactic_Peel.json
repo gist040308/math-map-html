@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Peel", "short_name": "Peel", "kind": "def", "module": "Mathlib.Tactic.Peel", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.GroupTheory.Exponent"], "used_by_count": 2}]}

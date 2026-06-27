@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.ModelTheory.Satisfiability", "short_name": "Satisfiability", "kind": "theorem", "module": "Mathlib.ModelTheory.Satisfiability", "namespace": "Mathlib.ModelTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.ModelTheory.Graph", "Mathlib.ModelTheory.Types"], "used_by_count": 3}]}

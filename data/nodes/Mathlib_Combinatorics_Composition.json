@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Combinatorics.Composition", "short_name": "Composition", "kind": "theorem", "module": "Mathlib.Combinatorics.Composition", "namespace": "Mathlib.Combinatorics", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.Analytic.Composition", "Mathlib.Combinatorics.Partition"], "used_by_count": 3}]}

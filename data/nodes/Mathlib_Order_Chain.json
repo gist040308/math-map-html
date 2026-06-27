@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Chain", "short_name": "Chain", "kind": "lemma", "module": "Mathlib.Order.Chain", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.Zorn", "Mathlib.Order.OmegaCompletePartialOrder", "Mathlib.Data.Fin.FlagRange"], "used_by_count": 3}]}

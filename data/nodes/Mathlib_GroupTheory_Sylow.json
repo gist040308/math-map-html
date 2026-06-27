@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.Sylow", "short_name": "Sylow", "kind": "theorem", "module": "Mathlib.GroupTheory.Sylow", "namespace": "Mathlib.GroupTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.GroupTheory.Nilpotent", "Mathlib.GroupTheory.SchurZassenhaus", "Mathlib.GroupTheory.Transfer"], "used_by_count": 6}]}

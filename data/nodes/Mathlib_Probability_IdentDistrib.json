@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Probability.IdentDistrib", "short_name": "IdentDistrib", "kind": "theorem", "module": "Mathlib.Probability.IdentDistrib", "namespace": "Mathlib.Probability", "doc_string": null, "source_range": null, "deps": ["Mathlib.Probability.StrongLaw"], "used_by_count": 2}]}

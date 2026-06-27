@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Classical", "short_name": "Classical", "kind": "def", "module": "Mathlib.Tactic.Classical", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Tauto", "Mathlib.Tactic.Common", "Mathlib.Order.Basic", "Mathlib.Mathport.Syntax", "Mathlib.Data.Pi.Algebra"], "used_by_count": 0}]}

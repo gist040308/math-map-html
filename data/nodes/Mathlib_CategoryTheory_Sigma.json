@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.Sigma.Basic", "short_name": "Basic", "kind": "theorem", "module": "Mathlib.CategoryTheory.Sigma.Basic", "namespace": "Mathlib.CategoryTheory.Sigma", "doc_string": null, "source_range": null, "deps": ["Mathlib.CategoryTheory.ConnectedComponents"], "used_by_count": 3}]}

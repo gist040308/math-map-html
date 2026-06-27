@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.NumberTheory.Bernoulli", "short_name": "Bernoulli", "kind": "theorem", "module": "Mathlib.NumberTheory.Bernoulli", "namespace": "Mathlib.NumberTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.BernoulliPolynomials"], "used_by_count": 5}]}

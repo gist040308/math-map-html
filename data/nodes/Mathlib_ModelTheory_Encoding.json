@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.ModelTheory.Encoding", "short_name": "Encoding", "kind": "theorem", "module": "Mathlib.ModelTheory.Encoding", "namespace": "Mathlib.ModelTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.ModelTheory.Substructures"], "used_by_count": 4}]}

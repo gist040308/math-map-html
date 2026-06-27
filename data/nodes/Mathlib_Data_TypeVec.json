@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.TypeVec", "short_name": "TypeVec", "kind": "def", "module": "Mathlib.Data.TypeVec", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.Control.Functor.Multivariate"], "used_by_count": 3}]}

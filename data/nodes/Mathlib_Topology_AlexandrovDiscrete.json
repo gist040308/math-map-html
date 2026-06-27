@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.AlexandrovDiscrete", "short_name": "AlexandrovDiscrete", "kind": "theorem", "module": "Mathlib.Topology.AlexandrovDiscrete", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Order.UpperLowerSetTopology"], "used_by_count": 4}]}

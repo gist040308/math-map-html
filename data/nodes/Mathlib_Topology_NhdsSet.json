@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.NhdsSet", "short_name": "NhdsSet", "kind": "theorem", "module": "Mathlib.Topology.NhdsSet", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Maps", "Mathlib.Topology.UniformSpace.Basic"], "used_by_count": 1}]}

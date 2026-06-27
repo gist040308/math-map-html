@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.PGroup", "short_name": "PGroup", "kind": "theorem", "module": "Mathlib.GroupTheory.PGroup", "namespace": "Mathlib.GroupTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.GroupTheory.Nilpotent", "Mathlib.GroupTheory.Sylow", "Mathlib.GroupTheory.Torsion"], "used_by_count": 7}]}

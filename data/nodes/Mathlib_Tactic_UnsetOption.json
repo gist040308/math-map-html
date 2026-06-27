@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.UnsetOption", "short_name": "UnsetOption", "kind": "def", "module": "Mathlib.Tactic.UnsetOption", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common"], "used_by_count": 0}]}

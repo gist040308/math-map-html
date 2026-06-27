@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.NumberTheory.ZetaFunction", "short_name": "ZetaFunction", "kind": "theorem", "module": "Mathlib.NumberTheory.ZetaFunction", "namespace": "Mathlib.NumberTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.EulerProduct.DirichletLSeries"], "used_by_count": 3}]}

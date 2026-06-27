@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Spectral.Hom", "short_name": "Hom", "kind": "theorem", "module": "Mathlib.Topology.Spectral.Hom", "namespace": "Mathlib.Topology.Spectral", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicGeometry.Morphisms.QuasiCompact"], "used_by_count": 1}]}

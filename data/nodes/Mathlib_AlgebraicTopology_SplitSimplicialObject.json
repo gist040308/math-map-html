@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicTopology.SplitSimplicialObject", "short_name": "SplitSimplicialObject", "kind": "theorem", "module": "Mathlib.AlgebraicTopology.SplitSimplicialObject", "namespace": "Mathlib.AlgebraicTopology", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicTopology.DoldKan.SplitSimplicialObject"], "used_by_count": 2}]}

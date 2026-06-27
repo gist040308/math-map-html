@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.CommSq", "short_name": "CommSq", "kind": "theorem", "module": "Mathlib.CategoryTheory.CommSq", "namespace": "Mathlib.CategoryTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.CategoryTheory.Limits.Shapes.CommSq", "Mathlib.CategoryTheory.LiftingProperties.Basic"], "used_by_count": 1}]}

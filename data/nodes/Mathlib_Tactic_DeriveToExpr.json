@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.DeriveToExpr", "short_name": "DeriveToExpr", "kind": "def", "module": "Mathlib.Tactic.DeriveToExpr", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.ToExpr", "Mathlib.Tactic.Common"], "used_by_count": 1}]}

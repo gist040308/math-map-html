@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RepresentationTheory.Rep", "short_name": "Rep", "kind": "theorem", "module": "Mathlib.RepresentationTheory.Rep", "namespace": "Mathlib.RepresentationTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.RepresentationTheory.FdRep", "Mathlib.RepresentationTheory.GroupCohomology.Resolution"], "used_by_count": 7}]}

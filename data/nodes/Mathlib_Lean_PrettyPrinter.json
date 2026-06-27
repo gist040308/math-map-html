@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Lean.PrettyPrinter.Delaborator", "short_name": "Delaborator", "kind": "def", "module": "Mathlib.Lean.PrettyPrinter.Delaborator", "namespace": "Mathlib.Lean.PrettyPrinter", "doc_string": null, "source_range": null, "deps": ["Mathlib.Mathport.Notation"], "used_by_count": 0}]}

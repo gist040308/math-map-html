@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.GDelta", "short_name": "GDelta", "kind": "theorem", "module": "Mathlib.Topology.GDelta", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.MetricSpace.Baire", "Mathlib.MeasureTheory.Constructions.BorelSpace.Basic"], "used_by_count": 3}]}

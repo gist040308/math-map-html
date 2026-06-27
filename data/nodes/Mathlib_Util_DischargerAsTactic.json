@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Util.DischargerAsTactic", "short_name": "DischargerAsTactic", "kind": "def", "module": "Mathlib.Util.DischargerAsTactic", "namespace": "Mathlib.Util", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.FieldSimp"], "used_by_count": 0}]}

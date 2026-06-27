@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.RunCmd", "short_name": "RunCmd", "kind": "def", "module": "Mathlib.Tactic.RunCmd", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Conv", "Mathlib.Tactic.Common", "Mathlib.Mathport.Syntax", "Mathlib.Util.CompileInductive"], "used_by_count": 0}]}

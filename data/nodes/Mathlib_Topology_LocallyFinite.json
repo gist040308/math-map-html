@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.LocallyFinite", "short_name": "LocallyFinite", "kind": "theorem", "module": "Mathlib.Topology.LocallyFinite", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Compactness.Compact", "Mathlib.Data.Analysis.Topology"], "used_by_count": 2}]}

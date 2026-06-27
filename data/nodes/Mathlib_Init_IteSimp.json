@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Init.IteSimp", "short_name": "IteSimp", "kind": "def", "module": "Mathlib.Init.IteSimp", "namespace": "Mathlib.Init", "doc_string": null, "source_range": null, "deps": ["Mathlib.Init.Data.Ordering.Lemmas", "Mathlib.Data.Finsupp.Antidiagonal"], "used_by_count": 2}]}

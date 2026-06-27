@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Replace", "short_name": "Replace", "kind": "def", "module": "Mathlib.Tactic.Replace", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common", "Mathlib.Mathport.Syntax", "Mathlib.Data.Rat.Lemmas"], "used_by_count": 1}]}

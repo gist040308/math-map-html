@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.Char", "short_name": "Char", "kind": "def", "module": "Mathlib.Data.Char", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.Data.ByteArray", "Mathlib.Data.String.Basic"], "used_by_count": 2}]}

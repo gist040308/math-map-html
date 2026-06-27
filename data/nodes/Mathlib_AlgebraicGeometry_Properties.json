@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicGeometry.Properties", "short_name": "Properties", "kind": "theorem", "module": "Mathlib.AlgebraicGeometry.Properties", "namespace": "Mathlib.AlgebraicGeometry", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicGeometry.FunctionField"], "used_by_count": 5}]}

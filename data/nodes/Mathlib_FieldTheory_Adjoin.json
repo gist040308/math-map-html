@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.FieldTheory.Adjoin", "short_name": "Adjoin", "kind": "theorem", "module": "Mathlib.FieldTheory.Adjoin", "namespace": "Mathlib.FieldTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.FieldTheory.Normal"], "used_by_count": 4}]}

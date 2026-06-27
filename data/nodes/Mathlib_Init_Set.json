@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Init.Set", "short_name": "Set", "kind": "def", "module": "Mathlib.Init.Set", "namespace": "Mathlib.Init", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.PushNeg", "Mathlib.Logic.Pairwise", "Mathlib.Logic.Function.Basic", "Mathlib.Data.Set.Functor", "Mathlib.Control.Functor"], "used_by_count": 1}]}

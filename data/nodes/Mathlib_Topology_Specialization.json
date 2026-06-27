@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Specialization", "short_name": "Specialization", "kind": "theorem", "module": "Mathlib.Topology.Specialization", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Order.Category.AlexDisc"], "used_by_count": 5}]}

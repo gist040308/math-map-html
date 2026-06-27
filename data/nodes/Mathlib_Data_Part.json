@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.Part", "short_name": "Part", "kind": "def", "module": "Mathlib.Data.Part", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.OmegaCompletePartialOrder", "Mathlib.Data.PFun", "Mathlib.Data.Finmap", "Mathlib.Data.Finset.PImage", "Mathlib.Data.Nat.PartENat", "Mathlib.Control.Fix"], "used_by_count": 3}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.Fintype", "short_name": "Fintype", "kind": "theorem", "module": "Mathlib.RingTheory.Fintype", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.LucasLehmer"], "used_by_count": 1}]}

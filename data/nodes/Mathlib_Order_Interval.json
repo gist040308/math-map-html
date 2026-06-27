@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Interval", "short_name": "Interval", "kind": "lemma", "module": "Mathlib.Order.Interval", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Order.Interval"], "used_by_count": 3}]}

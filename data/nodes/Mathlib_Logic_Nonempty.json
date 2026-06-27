@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Logic.Nonempty", "short_name": "Nonempty", "kind": "lemma", "module": "Mathlib.Logic.Nonempty", "namespace": "Mathlib.Logic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Logic.Function.Basic"], "used_by_count": 2}]}

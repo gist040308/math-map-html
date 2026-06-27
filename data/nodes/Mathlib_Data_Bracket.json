@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.Bracket", "short_name": "Bracket", "kind": "def", "module": "Mathlib.Data.Bracket", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.GroupTheory.Commutator", "Mathlib.Algebra.Group.Commutator", "Mathlib.Algebra.Lie.Basic"], "used_by_count": 2}]}

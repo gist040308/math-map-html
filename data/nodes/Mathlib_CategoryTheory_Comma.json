@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.Comma", "short_name": "Comma", "kind": "theorem", "module": "Mathlib.CategoryTheory.Comma", "namespace": "Mathlib.CategoryTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.CategoryTheory.Arrow", "Mathlib.CategoryTheory.StructuredArrow"], "used_by_count": 3}]}

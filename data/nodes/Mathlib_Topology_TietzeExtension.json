@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.TietzeExtension", "short_name": "TietzeExtension", "kind": "theorem", "module": "Mathlib.Topology.TietzeExtension", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Separation.NotNormal"], "used_by_count": 4}]}

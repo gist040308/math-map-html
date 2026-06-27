@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Analysis.MellinTransform", "short_name": "MellinTransform", "kind": "theorem", "module": "Mathlib.Analysis.MellinTransform", "namespace": "Mathlib.Analysis", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.SpecialFunctions.Gamma.Basic"], "used_by_count": 3}]}

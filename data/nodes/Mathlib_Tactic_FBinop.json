@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.FBinop", "short_name": "FBinop", "kind": "def", "module": "Mathlib.Tactic.FBinop", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Data.SProd"], "used_by_count": 1}]}

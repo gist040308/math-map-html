@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Condensed.Equivalence", "short_name": "Equivalence", "kind": "theorem", "module": "Mathlib.Condensed.Equivalence", "namespace": "Mathlib.Condensed", "doc_string": null, "source_range": null, "deps": ["Mathlib.Condensed.Functors", "Mathlib.Condensed.Explicit"], "used_by_count": 6}]}

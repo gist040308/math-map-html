@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicGeometry.Scheme", "short_name": "Scheme", "kind": "theorem", "module": "Mathlib.AlgebraicGeometry.Scheme", "namespace": "Mathlib.AlgebraicGeometry", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicGeometry.OpenImmersion"], "used_by_count": 2}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Lattice", "short_name": "Lattice", "kind": "lemma", "module": "Mathlib.Order.Lattice", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.MinMax", "Mathlib.Order.JordanHolder", "Mathlib.Order.Directed", "Mathlib.Order.BoundedOrder", "Mathlib.Algebra.Order.Sub.Defs"], "used_by_count": 5}]}

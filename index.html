@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>Lean Mathlib 依賴圖可視化</title>
+<meta name="description" content="Lean 4 Mathlib 定理依賴關係互動式可視化地圖">
+<link rel="stylesheet" href="./style.css">
+<link rel="stylesheet" href="./ui/sidebar.css">
+</head>
+<body>
+
+<div id="app">
+
+  <!-- ── 主視圖區：三層 Canvas ──────────────────────────────────────── -->
+  <main id="viewport">
+    <canvas id="canvas-edges" class="canvas-layer"></canvas>
+    <canvas id="canvas-nodes" class="canvas-layer"></canvas>
+    <canvas id="canvas-interact" class="canvas-layer"></canvas>
+
+    <!-- 搜尋與過濾面板（左上浮層） -->
+    <div id="search-panel"></div>
+
+    <!-- Minimap（左下） -->
+    <div id="minimap-container"></div>
+
+    <!-- Legend（右下） -->
+    <div id="legend-container"></div>
+
+    <!-- 頂部工具列（右上） -->
+    <div id="topbar">
+      <button id="reset-view-btn" title="重置視圖（按 0）">⊙ 重置視圖</button>
+      <button id="theme-toggle" title="切換深淺色模式">🌙</button>
+    </div>
+
+    <!-- 載入進度條 -->
+    <div id="load-progress">
+      <div id="load-progress-bar"></div>
+    </div>
+  </main>
+
+  <!-- ── 側邊欄：節點詳情 ───────────────────────────────────────────── -->
+  <aside id="sidebar"></aside>
+
+</div>
+
+<script type="module">
+  import "./app.js";
+
+  // 重置視圖按鈕（app.js 內已綁定 '0' 鍵，這裡補上對應的點擊入口）
+  document.getElementById("reset-view-btn")?.addEventListener("click", () => {
+    window.dispatchEvent(new KeyboardEvent("keydown", { key: "0" }));
+  });
+</script>
+
+</body>
+</html>

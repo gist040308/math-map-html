@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Analysis.Quaternion", "short_name": "Quaternion", "kind": "theorem", "module": "Mathlib.Analysis.Quaternion", "namespace": "Mathlib.Analysis", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.NormedSpace.QuaternionExponential"], "used_by_count": 4}]}

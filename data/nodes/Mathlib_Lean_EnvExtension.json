@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Lean.EnvExtension", "short_name": "EnvExtension", "kind": "def", "module": "Mathlib.Lean.EnvExtension", "namespace": "Mathlib.Lean", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.ToAdditive"], "used_by_count": 0}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Backtrack", "short_name": "Backtrack", "kind": "def", "module": "Mathlib.Tactic.Backtrack", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.SolveByElim", "Mathlib.Tactic.GCongr.Core"], "used_by_count": 2}]}

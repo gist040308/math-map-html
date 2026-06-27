@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.PEquiv", "short_name": "PEquiv", "kind": "def", "module": "Mathlib.Data.PEquiv", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.Data.Matrix.PEquiv"], "used_by_count": 1}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Lean.SMap", "short_name": "SMap", "kind": "def", "module": "Mathlib.Lean.SMap", "namespace": "Mathlib.Lean", "doc_string": null, "source_range": null, "deps": ["Mathlib.Lean.Name"], "used_by_count": 0}]}

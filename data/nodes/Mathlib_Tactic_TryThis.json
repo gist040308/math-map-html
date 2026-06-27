@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.TryThis", "short_name": "TryThis", "kind": "def", "module": "Mathlib.Tactic.TryThis", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Observe", "Mathlib.Tactic.Propose", "Mathlib.Tactic.Rewrites", "Mathlib.Tactic.Common"], "used_by_count": 1}]}

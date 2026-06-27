@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.Bounds", "short_name": "Bounds", "kind": "theorem", "module": "Mathlib.Algebra.Bounds", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Data.Real.Basic", "Mathlib.Algebra.Order.Pointwise"], "used_by_count": 5}]}

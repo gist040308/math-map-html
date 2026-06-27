@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.AlgebraicIndependent", "short_name": "AlgebraicIndependent", "kind": "theorem", "module": "Mathlib.RingTheory.AlgebraicIndependent", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.FieldTheory.IsAlgClosed.Classification"], "used_by_count": 6}]}

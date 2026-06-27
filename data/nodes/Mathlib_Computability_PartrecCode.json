@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Computability.PartrecCode", "short_name": "PartrecCode", "kind": "def", "module": "Mathlib.Computability.PartrecCode", "namespace": "Mathlib.Computability", "doc_string": null, "source_range": null, "deps": ["Mathlib.Computability.Halting"], "used_by_count": 1}]}

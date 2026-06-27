@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.SudoSetOption", "short_name": "SudoSetOption", "kind": "def", "module": "Mathlib.Tactic.SudoSetOption", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common"], "used_by_count": 0}]}

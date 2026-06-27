@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Gluing", "short_name": "Gluing", "kind": "theorem", "module": "Mathlib.Topology.Gluing", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Geometry.RingedSpace.PresheafedSpace.Gluing"], "used_by_count": 5}]}

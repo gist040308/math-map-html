@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.IsomorphismClasses", "short_name": "IsomorphismClasses", "kind": "theorem", "module": "Mathlib.CategoryTheory.IsomorphismClasses", "namespace": "Mathlib.CategoryTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.CategoryTheory.Skeletal", "Mathlib.CategoryTheory.Limits.Shapes.ZeroMorphisms"], "used_by_count": 3}]}

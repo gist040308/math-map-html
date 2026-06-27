@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.EssentialImage", "short_name": "EssentialImage", "kind": "theorem", "module": "Mathlib.CategoryTheory.EssentialImage", "namespace": "Mathlib.CategoryTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.CategoryTheory.UnivLE", "Mathlib.CategoryTheory.Equivalence"], "used_by_count": 2}]}

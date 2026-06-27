@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.NoncommPiCoprod", "short_name": "NoncommPiCoprod", "kind": "theorem", "module": "Mathlib.GroupTheory.NoncommPiCoprod", "namespace": "Mathlib.GroupTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.GroupTheory.Sylow", "Mathlib.GroupTheory.Exponent"], "used_by_count": 5}]}

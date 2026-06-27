@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicGeometry.Restrict", "short_name": "Restrict", "kind": "theorem", "module": "Mathlib.AlgebraicGeometry.Restrict", "namespace": "Mathlib.AlgebraicGeometry", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicGeometry.AffineScheme", "Mathlib.AlgebraicGeometry.GammaSpecAdjunction"], "used_by_count": 1}]}

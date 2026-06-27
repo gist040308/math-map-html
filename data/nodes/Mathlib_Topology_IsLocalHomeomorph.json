@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.IsLocalHomeomorph", "short_name": "IsLocalHomeomorph", "kind": "theorem", "module": "Mathlib.Topology.IsLocalHomeomorph", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Covering", "Mathlib.Geometry.Manifold.LocalDiffeomorph"], "used_by_count": 2}]}

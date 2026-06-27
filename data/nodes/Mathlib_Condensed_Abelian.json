@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Condensed.Abelian", "short_name": "Abelian", "kind": "theorem", "module": "Mathlib.Condensed.Abelian", "namespace": "Mathlib.Condensed", "doc_string": null, "source_range": null, "deps": ["Mathlib.Condensed.Explicit", "Mathlib.Condensed.Limits", "Mathlib.Condensed.Adjunctions"], "used_by_count": 4}]}

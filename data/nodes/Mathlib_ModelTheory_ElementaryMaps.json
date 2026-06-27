@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.ModelTheory.ElementaryMaps", "short_name": "ElementaryMaps", "kind": "theorem", "module": "Mathlib.ModelTheory.ElementaryMaps", "namespace": "Mathlib.ModelTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.ModelTheory.ElementarySubstructures"], "used_by_count": 2}]}

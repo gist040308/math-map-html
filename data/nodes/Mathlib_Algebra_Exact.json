@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.Exact", "short_name": "Exact", "kind": "theorem", "module": "Mathlib.Algebra.Exact", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.LinearAlgebra.TensorProduct.RightExactness"], "used_by_count": 1}]}

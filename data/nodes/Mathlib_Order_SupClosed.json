@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.SupClosed", "short_name": "SupClosed", "kind": "lemma", "module": "Mathlib.Order.SupClosed", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.Sublattice", "Mathlib.Order.CompactlyGenerated", "Mathlib.Combinatorics.Colex", "Mathlib.Data.Set.Sups"], "used_by_count": 4}]}

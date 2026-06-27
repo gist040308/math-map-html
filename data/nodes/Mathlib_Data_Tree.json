@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.Tree", "short_name": "Tree", "kind": "def", "module": "Mathlib.Data.Tree", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.CancelDenoms.Core", "Mathlib.Combinatorics.Catalan"], "used_by_count": 4}]}

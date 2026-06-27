@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.FractionalIdeal", "short_name": "FractionalIdeal", "kind": "theorem", "module": "Mathlib.RingTheory.FractionalIdeal", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.RingTheory.DedekindDomain.Ideal"], "used_by_count": 7}]}

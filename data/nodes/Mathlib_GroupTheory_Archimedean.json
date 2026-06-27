@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.Archimedean", "short_name": "Archimedean", "kind": "theorem", "module": "Mathlib.GroupTheory.Archimedean", "namespace": "Mathlib.GroupTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Algebra.Order.Archimedean"], "used_by_count": 2}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Logic.Denumerable", "short_name": "Denumerable", "kind": "lemma", "module": "Mathlib.Logic.Denumerable", "namespace": "Mathlib.Logic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.OrderIsoNat", "Mathlib.Logic.Equiv.List"], "used_by_count": 4}]}

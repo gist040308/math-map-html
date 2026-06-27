@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.CompleteLatticeIntervals", "short_name": "CompleteLatticeIntervals", "kind": "lemma", "module": "Mathlib.Order.CompleteLatticeIntervals", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Algebra.Order.IntermediateValue", "Mathlib.Algebra.Order.Nonneg.Ring"], "used_by_count": 3}]}

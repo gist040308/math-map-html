@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.NoetherianSpace", "short_name": "NoetherianSpace", "kind": "theorem", "module": "Mathlib.Topology.NoetherianSpace", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.QuasiSeparated", "Mathlib.AlgebraicGeometry.PrimeSpectrum.Noetherian"], "used_by_count": 1}]}

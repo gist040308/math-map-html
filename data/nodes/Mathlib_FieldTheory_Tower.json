@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.FieldTheory.Tower", "short_name": "Tower", "kind": "theorem", "module": "Mathlib.FieldTheory.Tower", "namespace": "Mathlib.FieldTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.FieldTheory.IntermediateField", "Mathlib.FieldTheory.Fixed", "Mathlib.Data.Complex.Module", "Mathlib.Data.IsROrC.Lemmas"], "used_by_count": 4}]}

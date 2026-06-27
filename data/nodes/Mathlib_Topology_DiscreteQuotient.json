@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.DiscreteQuotient", "short_name": "DiscreteQuotient", "kind": "theorem", "module": "Mathlib.Topology.DiscreteQuotient", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Category.Profinite.CofilteredLimit", "Mathlib.Topology.Category.Profinite.AsLimit"], "used_by_count": 2}]}

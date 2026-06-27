@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Irreducible", "short_name": "Irreducible", "kind": "theorem", "module": "Mathlib.Topology.Irreducible", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Connected.Basic"], "used_by_count": 2}]}

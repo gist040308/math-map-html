@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Computability.Halting", "short_name": "Halting", "kind": "def", "module": "Mathlib.Computability.Halting", "namespace": "Mathlib.Computability", "doc_string": null, "source_range": null, "deps": ["Mathlib.Computability.TMToPartrec", "Mathlib.Computability.Reduce"], "used_by_count": 1}]}

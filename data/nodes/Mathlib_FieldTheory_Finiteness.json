@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.FieldTheory.Finiteness", "short_name": "Finiteness", "kind": "theorem", "module": "Mathlib.FieldTheory.Finiteness", "namespace": "Mathlib.FieldTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.LinearAlgebra.FiniteDimensional"], "used_by_count": 2}]}

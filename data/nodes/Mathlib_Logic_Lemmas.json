@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Logic.Lemmas", "short_name": "Lemmas", "kind": "lemma", "module": "Mathlib.Logic.Lemmas", "namespace": "Mathlib.Logic", "doc_string": null, "source_range": null, "deps": ["Mathlib.MeasureTheory.MeasurableSpace.Basic", "Mathlib.Combinatorics.Quiver.Path"], "used_by_count": 3}]}

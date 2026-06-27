@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Logic.Relator", "short_name": "Relator", "kind": "lemma", "module": "Mathlib.Logic.Relator", "namespace": "Mathlib.Logic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Logic.Relation", "Mathlib.Data.Quot", "Mathlib.Data.Option.Basic"], "used_by_count": 1}]}

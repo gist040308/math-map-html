@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Copy", "short_name": "Copy", "kind": "lemma", "module": "Mathlib.Order.Copy", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Sets.Opens", "Mathlib.CategoryTheory.Sites.Grothendieck"], "used_by_count": 1}]}

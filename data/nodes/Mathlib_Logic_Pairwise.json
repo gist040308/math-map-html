@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Logic.Pairwise", "short_name": "Pairwise", "kind": "lemma", "module": "Mathlib.Logic.Pairwise", "namespace": "Mathlib.Logic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Logic.Encodable.Lattice", "Mathlib.Data.List.Pairwise", "Mathlib.Data.Set.Pairwise.Basic", "Mathlib.Algebra.Group.Pi"], "used_by_count": 4}]}

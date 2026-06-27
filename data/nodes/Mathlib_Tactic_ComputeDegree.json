@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.ComputeDegree", "short_name": "ComputeDegree", "kind": "def", "module": "Mathlib.Tactic.ComputeDegree", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.LinearAlgebra.Matrix.Polynomial", "Mathlib.Data.Polynomial.CancelLeads"], "used_by_count": 1}]}

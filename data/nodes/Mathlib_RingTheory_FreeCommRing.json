@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.FreeCommRing", "short_name": "FreeCommRing", "kind": "theorem", "module": "Mathlib.RingTheory.FreeCommRing", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.ModelTheory.Algebra.Ring.FreeCommRing", "Mathlib.Algebra.DirectLimit"], "used_by_count": 4}]}

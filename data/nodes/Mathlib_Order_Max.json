@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Max", "short_name": "Max", "kind": "lemma", "module": "Mathlib.Order.Max", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.Directed", "Mathlib.Order.Monotone.Basic"], "used_by_count": 1}]}

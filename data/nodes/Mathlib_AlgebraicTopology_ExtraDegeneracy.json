@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicTopology.ExtraDegeneracy", "short_name": "ExtraDegeneracy", "kind": "theorem", "module": "Mathlib.AlgebraicTopology.ExtraDegeneracy", "namespace": "Mathlib.AlgebraicTopology", "doc_string": null, "source_range": null, "deps": ["Mathlib.RepresentationTheory.GroupCohomology.Resolution"], "used_by_count": 5}]}

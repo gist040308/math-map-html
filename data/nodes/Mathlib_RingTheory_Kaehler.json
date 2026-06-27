@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.Kaehler", "short_name": "Kaehler", "kind": "theorem", "module": "Mathlib.RingTheory.Kaehler", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.RingTheory.Etale"], "used_by_count": 3}]}

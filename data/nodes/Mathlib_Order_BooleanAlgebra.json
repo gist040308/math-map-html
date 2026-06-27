@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.BooleanAlgebra", "short_name": "BooleanAlgebra", "kind": "lemma", "module": "Mathlib.Order.BooleanAlgebra", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.SymmDiff", "Mathlib.Order.Heyting.Boundary"], "used_by_count": 1}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RepresentationTheory.Basic", "short_name": "Basic", "kind": "theorem", "module": "Mathlib.RepresentationTheory.Basic", "namespace": "Mathlib.RepresentationTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.RepresentationTheory.FdRep", "Mathlib.RepresentationTheory.Rep", "Mathlib.RepresentationTheory.Invariants"], "used_by_count": 7}]}

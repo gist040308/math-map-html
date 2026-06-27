@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.ModelTheory.ElementarySubstructures", "short_name": "ElementarySubstructures", "kind": "theorem", "module": "Mathlib.ModelTheory.ElementarySubstructures", "namespace": "Mathlib.ModelTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.ModelTheory.Skolem", "Mathlib.ModelTheory.Bundled"], "used_by_count": 1}]}

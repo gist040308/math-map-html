@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.AdicCompletion", "short_name": "AdicCompletion", "kind": "theorem", "module": "Mathlib.LinearAlgebra.AdicCompletion", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.RingTheory.Henselian", "Mathlib.RingTheory.DiscreteValuationRing.Basic"], "used_by_count": 3}]}

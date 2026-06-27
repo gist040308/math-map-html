@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.WithBot", "short_name": "WithBot", "kind": "lemma", "module": "Mathlib.Order.WithBot", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.PropInstances", "Mathlib.Order.KrullDimension", "Mathlib.Order.Hom.Basic", "Mathlib.Algebra.Group.WithOne.Defs"], "used_by_count": 4}]}

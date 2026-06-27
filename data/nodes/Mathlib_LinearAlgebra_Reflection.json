@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.Reflection", "short_name": "Reflection", "kind": "theorem", "module": "Mathlib.LinearAlgebra.Reflection", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.LinearAlgebra.RootSystem.Basic"], "used_by_count": 3}]}

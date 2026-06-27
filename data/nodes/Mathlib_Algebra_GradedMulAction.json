@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.GradedMulAction", "short_name": "GradedMulAction", "kind": "theorem", "module": "Mathlib.Algebra.GradedMulAction", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Module.GradedModule"], "used_by_count": 1}]}

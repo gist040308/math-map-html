@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.ApplyWith", "short_name": "ApplyWith", "kind": "def", "module": "Mathlib.Tactic.ApplyWith", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common", "Mathlib.Mathport.Syntax"], "used_by_count": 0}]}

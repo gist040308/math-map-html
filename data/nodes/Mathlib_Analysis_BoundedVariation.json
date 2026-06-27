@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Analysis.BoundedVariation", "short_name": "BoundedVariation", "kind": "theorem", "module": "Mathlib.Analysis.BoundedVariation", "namespace": "Mathlib.Analysis", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.ConstantSpeed", "Mathlib.Analysis.Calculus.Rademacher"], "used_by_count": 7}]}

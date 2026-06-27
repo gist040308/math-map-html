@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.NatTrans", "short_name": "NatTrans", "kind": "theorem", "module": "Mathlib.CategoryTheory.NatTrans", "namespace": "Mathlib.CategoryTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.CategoryTheory.Functor.Category"], "used_by_count": 1}]}

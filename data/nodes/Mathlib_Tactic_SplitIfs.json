@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.SplitIfs", "short_name": "SplitIfs", "kind": "def", "module": "Mathlib.Tactic.SplitIfs", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common", "Mathlib.Init.Order.Defs", "Mathlib.Mathport.Syntax", "Mathlib.Logic.Lemmas", "Mathlib.Data.Nat.Cast.Defs"], "used_by_count": 1}]}

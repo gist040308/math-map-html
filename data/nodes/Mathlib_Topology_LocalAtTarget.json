@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.LocalAtTarget", "short_name": "LocalAtTarget", "kind": "theorem", "module": "Mathlib.Topology.LocalAtTarget", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicGeometry.Morphisms.OpenImmersion", "Mathlib.AlgebraicGeometry.Morphisms.UniversallyClosed"], "used_by_count": 1}]}

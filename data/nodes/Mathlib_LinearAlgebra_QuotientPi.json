@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.QuotientPi", "short_name": "QuotientPi", "kind": "theorem", "module": "Mathlib.LinearAlgebra.QuotientPi", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.LinearAlgebra.FreeModule.IdealQuotient"], "used_by_count": 2}]}

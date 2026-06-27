@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Dynamics.PeriodicPts", "short_name": "PeriodicPts", "kind": "def", "module": "Mathlib.Dynamics.PeriodicPts", "namespace": "Mathlib.Dynamics", "doc_string": null, "source_range": null, "deps": ["Mathlib.GroupTheory.OrderOfElement", "Mathlib.GroupTheory.GroupAction.Quotient"], "used_by_count": 6}]}

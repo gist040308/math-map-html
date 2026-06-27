@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.Opposite", "short_name": "Opposite", "kind": "def", "module": "Mathlib.Data.Opposite", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.Combinatorics.Quiver.Basic", "Mathlib.Data.Set.Opposite"], "used_by_count": 1}]}

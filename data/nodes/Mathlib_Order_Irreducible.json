@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Irreducible", "short_name": "Irreducible", "kind": "lemma", "module": "Mathlib.Order.Irreducible", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.Birkhoff"], "used_by_count": 2}]}

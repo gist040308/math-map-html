@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.ModelTheory.DirectLimit", "short_name": "DirectLimit", "kind": "theorem", "module": "Mathlib.ModelTheory.DirectLimit", "namespace": "Mathlib.ModelTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.ModelTheory.Fraisse"], "used_by_count": 4}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Compare", "short_name": "Compare", "kind": "lemma", "module": "Mathlib.Order.Compare", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.Monotone.Basic", "Mathlib.Data.Ordmap.Ordnode"], "used_by_count": 2}]}

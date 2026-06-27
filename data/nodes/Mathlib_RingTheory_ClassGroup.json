@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.ClassGroup", "short_name": "ClassGroup", "kind": "theorem", "module": "Mathlib.RingTheory.ClassGroup", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.ClassNumber.Finite", "Mathlib.AlgebraicGeometry.EllipticCurve.Group"], "used_by_count": 2}]}

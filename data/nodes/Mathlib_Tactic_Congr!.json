@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Congr!", "short_name": "Congr!", "kind": "def", "module": "Mathlib.Tactic.Congr!", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Convert", "Mathlib.Tactic.Common", "Mathlib.Tactic.TermCongr"], "used_by_count": 2}]}

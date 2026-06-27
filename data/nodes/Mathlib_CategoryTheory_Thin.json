@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.Thin", "short_name": "Thin", "kind": "theorem", "module": "Mathlib.CategoryTheory.Thin", "namespace": "Mathlib.CategoryTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.CategoryTheory.Skeletal", "Mathlib.CategoryTheory.Limits.Shapes.WidePullbacks"], "used_by_count": 2}]}

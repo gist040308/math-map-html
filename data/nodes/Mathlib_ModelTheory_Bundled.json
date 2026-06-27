@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.ModelTheory.Bundled", "short_name": "Bundled", "kind": "theorem", "module": "Mathlib.ModelTheory.Bundled", "namespace": "Mathlib.ModelTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.ModelTheory.Fraisse", "Mathlib.ModelTheory.Satisfiability"], "used_by_count": 2}]}

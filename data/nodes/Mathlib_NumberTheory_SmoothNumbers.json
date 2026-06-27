@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.NumberTheory.SmoothNumbers", "short_name": "SmoothNumbers", "kind": "theorem", "module": "Mathlib.NumberTheory.SmoothNumbers", "namespace": "Mathlib.NumberTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.PrimeCounting", "Mathlib.NumberTheory.EulerProduct.Basic"], "used_by_count": 1}]}

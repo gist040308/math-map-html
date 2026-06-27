@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.Congruence", "short_name": "Congruence", "kind": "theorem", "module": "Mathlib.RingTheory.Congruence", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.RingTheory.Ideal.Quotient"], "used_by_count": 4}]}

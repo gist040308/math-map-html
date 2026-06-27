@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.RingQuot", "short_name": "RingQuot", "kind": "theorem", "module": "Mathlib.Algebra.RingQuot", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.LinearAlgebra.CliffordAlgebra.Basic", "Mathlib.LinearAlgebra.TensorAlgebra.Basic", "Mathlib.Algebra.Lie.UniversalEnveloping"], "used_by_count": 2}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.AlgebraTower", "short_name": "AlgebraTower", "kind": "theorem", "module": "Mathlib.RingTheory.AlgebraTower", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.FieldTheory.Tower", "Mathlib.LinearAlgebra.Matrix.ToLin", "Mathlib.Data.MvPolynomial.Invertible"], "used_by_count": 3}]}

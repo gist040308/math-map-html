@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Sat.FromLRAT", "short_name": "FromLRAT", "kind": "def", "module": "Mathlib.Tactic.Sat.FromLRAT", "namespace": "Mathlib.Tactic.Sat", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic"], "used_by_count": 1}]}

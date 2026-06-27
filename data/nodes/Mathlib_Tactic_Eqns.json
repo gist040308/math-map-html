@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Eqns", "short_name": "Eqns", "kind": "def", "module": "Mathlib.Tactic.Eqns", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.ToAdditive", "Mathlib.Tactic.IrreducibleDef", "Mathlib.Tactic.Common", "Mathlib.Init.Function"], "used_by_count": 1}]}

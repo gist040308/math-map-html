@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Ideal", "short_name": "Ideal", "kind": "lemma", "module": "Mathlib.Order.Ideal", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.CountableDenseLinearOrder", "Mathlib.Order.PrimeIdeal", "Mathlib.Order.PFilter"], "used_by_count": 3}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.Ray", "short_name": "Ray", "kind": "theorem", "module": "Mathlib.LinearAlgebra.Ray", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.Convex.Segment", "Mathlib.Analysis.NormedSpace.Ray", "Mathlib.LinearAlgebra.Orientation"], "used_by_count": 2}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.EckmannHilton", "short_name": "EckmannHilton", "kind": "theorem", "module": "Mathlib.GroupTheory.EckmannHilton", "namespace": "Mathlib.GroupTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Homotopy.HomotopyGroup", "Mathlib.CategoryTheory.Preadditive.OfBiproducts"], "used_by_count": 1}]}

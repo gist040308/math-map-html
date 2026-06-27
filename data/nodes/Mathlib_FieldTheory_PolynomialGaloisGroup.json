@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.FieldTheory.PolynomialGaloisGroup", "short_name": "PolynomialGaloisGroup", "kind": "theorem", "module": "Mathlib.FieldTheory.PolynomialGaloisGroup", "namespace": "Mathlib.FieldTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.Cyclotomic.Gal", "Mathlib.FieldTheory.AbelRuffini"], "used_by_count": 3}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Rify", "short_name": "Rify", "kind": "def", "module": "Mathlib.Tactic.Rify", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic"], "used_by_count": 2}]}

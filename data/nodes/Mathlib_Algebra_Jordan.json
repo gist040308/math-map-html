@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.Jordan.Basic", "short_name": "Basic", "kind": "theorem", "module": "Mathlib.Algebra.Jordan.Basic", "namespace": "Mathlib.Algebra.Jordan", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Symmetrized"], "used_by_count": 1}]}

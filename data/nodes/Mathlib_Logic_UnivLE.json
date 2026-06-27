@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Logic.UnivLE", "short_name": "UnivLE", "kind": "lemma", "module": "Mathlib.Logic.UnivLE", "namespace": "Mathlib.Logic", "doc_string": null, "source_range": null, "deps": ["Mathlib.CategoryTheory.EssentiallySmall", "Mathlib.CategoryTheory.UnivLE", "Mathlib.CategoryTheory.Limits.Types", "Mathlib.SetTheory.Cardinal.UnivLE"], "used_by_count": 1}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Algebra.Quotient", "short_name": "Quotient", "kind": "theorem", "module": "Mathlib.Algebra.Quotient", "namespace": "Mathlib.Algebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.GroupTheory.Coset"], "used_by_count": 2}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Basic", "short_name": "Basic", "kind": "theorem", "module": "Mathlib.Topology.Basic", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Order", "Mathlib.Topology.Tactic", "Mathlib.Topology.OmegaCompletePartialOrder", "Mathlib.Topology.NhdsSet"], "used_by_count": 4}]}

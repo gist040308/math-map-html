@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.Coevaluation", "short_name": "Coevaluation", "kind": "theorem", "module": "Mathlib.LinearAlgebra.Coevaluation", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Category.FGModuleCat.Basic"], "used_by_count": 1}]}

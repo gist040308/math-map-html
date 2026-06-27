@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Lean.Exception", "short_name": "Exception", "kind": "def", "module": "Mathlib.Lean.Exception", "namespace": "Mathlib.Lean", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.Linarith.Preprocessing"], "used_by_count": 0}]}

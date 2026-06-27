@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Lean.Data.NameMap", "short_name": "NameMap", "kind": "def", "module": "Mathlib.Lean.Data.NameMap", "namespace": "Mathlib.Lean.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.Util.Imports"], "used_by_count": 0}]}

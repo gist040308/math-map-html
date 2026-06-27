@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.WLOG", "short_name": "WLOG", "kind": "def", "module": "Mathlib.Tactic.WLOG", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common", "Mathlib.Mathport.Syntax", "Mathlib.Analysis.BoundedVariation", "Mathlib.SetTheory.Cardinal.Divisibility"], "used_by_count": 1}]}

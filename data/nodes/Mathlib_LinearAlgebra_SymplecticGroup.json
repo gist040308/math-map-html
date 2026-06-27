@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.SymplecticGroup", "short_name": "SymplecticGroup", "kind": "theorem", "module": "Mathlib.LinearAlgebra.SymplecticGroup", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Lie.Classical"], "used_by_count": 1}]}

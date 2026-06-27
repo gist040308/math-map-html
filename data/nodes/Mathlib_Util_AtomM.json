@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Util.AtomM", "short_name": "AtomM", "kind": "def", "module": "Mathlib.Util.AtomM", "namespace": "Mathlib.Util", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.TFAE", "Mathlib.Tactic.Abel", "Mathlib.Tactic.Ring.Basic"], "used_by_count": 0}]}

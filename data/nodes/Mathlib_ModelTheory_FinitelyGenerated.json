@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.ModelTheory.FinitelyGenerated", "short_name": "FinitelyGenerated", "kind": "theorem", "module": "Mathlib.ModelTheory.FinitelyGenerated", "namespace": "Mathlib.ModelTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.ModelTheory.Fraisse", "Mathlib.ModelTheory.DirectLimit"], "used_by_count": 1}]}

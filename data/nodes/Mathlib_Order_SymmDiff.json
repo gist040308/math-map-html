@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.SymmDiff", "short_name": "SymmDiff", "kind": "lemma", "module": "Mathlib.Order.SymmDiff", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.Hom.Lattice", "Mathlib.MeasureTheory.Decomposition.SignedHahn", "Mathlib.Data.MvPolynomial.Basic", "Mathlib.Data.Set.Basic"], "used_by_count": 2}]}

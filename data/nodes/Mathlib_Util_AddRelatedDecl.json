@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Util.AddRelatedDecl", "short_name": "AddRelatedDecl", "kind": "def", "module": "Mathlib.Util.AddRelatedDecl", "namespace": "Mathlib.Util", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.CategoryTheory.Elementwise", "Mathlib.Tactic.CategoryTheory.Reassoc"], "used_by_count": 0}]}

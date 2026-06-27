@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Logic.Unique", "short_name": "Unique", "kind": "lemma", "module": "Mathlib.Logic.Unique", "namespace": "Mathlib.Logic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Logic.Nontrivial.Basic", "Mathlib.Logic.Equiv.Defs", "Mathlib.Data.Quot", "Mathlib.Data.Pi.Algebra", "Mathlib.Algebra.Group.Units"], "used_by_count": 3}]}

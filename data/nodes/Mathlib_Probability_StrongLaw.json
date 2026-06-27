@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Probability.StrongLaw", "short_name": "StrongLaw", "kind": "theorem", "module": "Mathlib.Probability.StrongLaw", "namespace": "Mathlib.Probability", "doc_string": null, "source_range": null, "deps": [], "used_by_count": 5}]}

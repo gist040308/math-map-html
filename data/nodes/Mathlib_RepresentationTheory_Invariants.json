@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RepresentationTheory.Invariants", "short_name": "Invariants", "kind": "theorem", "module": "Mathlib.RepresentationTheory.Invariants", "namespace": "Mathlib.RepresentationTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.RepresentationTheory.Character", "Mathlib.RepresentationTheory.GroupCohomology.LowDegree"], "used_by_count": 2}]}

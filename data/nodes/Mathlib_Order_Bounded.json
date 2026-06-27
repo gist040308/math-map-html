@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Bounded", "short_name": "Bounded", "kind": "lemma", "module": "Mathlib.Order.Bounded", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.SetTheory.Cardinal.Ordinal"], "used_by_count": 2}]}

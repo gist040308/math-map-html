@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Util.CountHeartbeats", "short_name": "CountHeartbeats", "kind": "def", "module": "Mathlib.Util.CountHeartbeats", "namespace": "Mathlib.Util", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.Common"], "used_by_count": 0}]}

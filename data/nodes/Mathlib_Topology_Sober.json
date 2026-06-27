@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Sober", "short_name": "Sober", "kind": "theorem", "module": "Mathlib.Topology.Sober", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicGeometry.PrimeSpectrum.Basic"], "used_by_count": 1}]}

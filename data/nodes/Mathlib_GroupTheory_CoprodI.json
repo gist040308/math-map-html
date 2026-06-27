@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.CoprodI", "short_name": "CoprodI", "kind": "theorem", "module": "Mathlib.GroupTheory.CoprodI", "namespace": "Mathlib.GroupTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.GroupTheory.PushoutI"], "used_by_count": 6}]}

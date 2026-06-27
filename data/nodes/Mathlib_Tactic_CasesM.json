@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.CasesM", "short_name": "CasesM", "kind": "def", "module": "Mathlib.Tactic.CasesM", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Tauto", "Mathlib.Tactic.Common", "Mathlib.Mathport.Syntax", "Mathlib.Control.Basic"], "used_by_count": 0}]}

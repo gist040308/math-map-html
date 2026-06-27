@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Clean", "short_name": "Clean", "kind": "def", "module": "Mathlib.Tactic.Clean", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Mathport.Syntax"], "used_by_count": 0}]}

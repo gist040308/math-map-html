@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.NumberTheory.ZetaValues", "short_name": "ZetaValues", "kind": "theorem", "module": "Mathlib.NumberTheory.ZetaValues", "namespace": "Mathlib.NumberTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.ZetaFunction"], "used_by_count": 5}]}

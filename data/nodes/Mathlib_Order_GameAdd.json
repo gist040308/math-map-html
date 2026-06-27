@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.GameAdd", "short_name": "GameAdd", "kind": "lemma", "module": "Mathlib.Order.GameAdd", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Logic.Hydra", "Mathlib.SetTheory.Game.PGame", "Mathlib.Data.DFinsupp.WellFounded"], "used_by_count": 2}]}

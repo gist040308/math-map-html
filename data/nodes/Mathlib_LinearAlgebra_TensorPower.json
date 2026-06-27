@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.TensorPower", "short_name": "TensorPower", "kind": "theorem", "module": "Mathlib.LinearAlgebra.TensorPower", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.LinearAlgebra.TensorAlgebra.ToTensorPower"], "used_by_count": 3}]}

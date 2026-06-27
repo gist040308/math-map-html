@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.MeasureTheory.PiSystem", "short_name": "PiSystem", "kind": "theorem", "module": "Mathlib.MeasureTheory.PiSystem", "namespace": "Mathlib.MeasureTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.MeasureTheory.SetSemiring", "Mathlib.MeasureTheory.Measure.OuterMeasure"], "used_by_count": 2}]}

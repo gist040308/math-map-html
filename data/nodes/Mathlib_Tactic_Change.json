@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Change", "short_name": "Change", "kind": "def", "module": "Mathlib.Tactic.Change", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic"], "used_by_count": 1}]}

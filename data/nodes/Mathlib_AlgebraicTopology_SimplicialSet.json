@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicTopology.SimplicialSet", "short_name": "SimplicialSet", "kind": "theorem", "module": "Mathlib.AlgebraicTopology.SimplicialSet", "namespace": "Mathlib.AlgebraicTopology", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicTopology.Nerve", "Mathlib.AlgebraicTopology.ExtraDegeneracy"], "used_by_count": 6}]}

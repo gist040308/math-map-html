@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Analysis.MeanInequalitiesPow", "short_name": "MeanInequalitiesPow", "kind": "theorem", "module": "Mathlib.Analysis.MeanInequalitiesPow", "namespace": "Mathlib.Analysis", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.NormedSpace.lpSpace", "Mathlib.MeasureTheory.Integral.MeanInequalities"], "used_by_count": 4}]}

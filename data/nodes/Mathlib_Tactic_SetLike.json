@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.SetLike", "short_name": "SetLike", "kind": "def", "module": "Mathlib.Tactic.SetLike", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Data.SetLike.Basic"], "used_by_count": 0}]}

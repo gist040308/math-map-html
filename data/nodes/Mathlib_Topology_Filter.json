@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.Filter", "short_name": "Filter", "kind": "theorem", "module": "Mathlib.Topology.Filter", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.ProperMap", "Mathlib.Topology.Algebra.Order.Filter"], "used_by_count": 3}]}

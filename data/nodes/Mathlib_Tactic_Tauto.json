@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Tauto", "short_name": "Tauto", "kind": "def", "module": "Mathlib.Tactic.Tauto", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common", "Mathlib.Mathport.Syntax", "Mathlib.Data.Set.Basic", "Mathlib.Algebra.Order.Ring.WithTop"], "used_by_count": 6}]}

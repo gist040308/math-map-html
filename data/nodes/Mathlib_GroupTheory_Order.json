@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.Order.Min", "short_name": "Min", "kind": "theorem", "module": "Mathlib.GroupTheory.Order.Min", "namespace": "Mathlib.GroupTheory.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Combinatorics.SetFamily.CauchyDavenport"], "used_by_count": 1}]}

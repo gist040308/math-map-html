@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Polyrith", "short_name": "Polyrith", "kind": "def", "module": "Mathlib.Tactic.Polyrith", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Mathport.Syntax"], "used_by_count": 2}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.ProperMap", "short_name": "ProperMap", "kind": "theorem", "module": "Mathlib.Topology.ProperMap", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Algebra.ProperConstSMul"], "used_by_count": 4}]}

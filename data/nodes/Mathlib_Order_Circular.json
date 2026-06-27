@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Circular", "short_name": "Circular", "kind": "lemma", "module": "Mathlib.Order.Circular", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Algebra.Order.ToIntervalMod"], "used_by_count": 1}]}

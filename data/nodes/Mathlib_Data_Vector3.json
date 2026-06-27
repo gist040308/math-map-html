@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.Vector3", "short_name": "Vector3", "kind": "def", "module": "Mathlib.Data.Vector3", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.Dioph"], "used_by_count": 3}]}

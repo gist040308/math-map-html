@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Topology.QuasiSeparated", "short_name": "QuasiSeparated", "kind": "theorem", "module": "Mathlib.Topology.QuasiSeparated", "namespace": "Mathlib.Topology", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Sets.Compacts", "Mathlib.AlgebraicGeometry.Morphisms.QuasiSeparated"], "used_by_count": 2}]}

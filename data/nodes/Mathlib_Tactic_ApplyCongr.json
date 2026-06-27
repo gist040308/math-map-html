@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.ApplyCongr", "short_name": "ApplyCongr", "kind": "def", "module": "Mathlib.Tactic.ApplyCongr", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common", "Mathlib.Mathport.Syntax", "Mathlib.LinearAlgebra.FiniteDimensional"], "used_by_count": 1}]}

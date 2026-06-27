@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.PerfectPairing", "short_name": "PerfectPairing", "kind": "theorem", "module": "Mathlib.LinearAlgebra.PerfectPairing", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.LinearAlgebra.RootSystem.Basic"], "used_by_count": 1}]}

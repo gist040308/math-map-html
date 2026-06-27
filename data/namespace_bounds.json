@@ -1,0 +1,7380 @@
+{
+  "Mathlib.Algebra.Abs": {
+    "x": 2766.4,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Algebra.AddTorsor": {
+    "x": 20416.3,
+    "y": 30507.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Algebra.Algebra": {
+    "x": 25972.5,
+    "y": 29248.2,
+    "w": 6573.1,
+    "h": 2762.8,
+    "color": "#534AB7"
+  },
+  "Mathlib.Algebra.AlgebraicCard": {
+    "x": 37795.8,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Algebra.Associated": {
+    "x": 15511.0,
+    "y": 31011.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Algebra.BigOperators": {
+    "x": 18272.8,
+    "y": 28744.5,
+    "w": 9590.4,
+    "h": 4525.7,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Algebra.Bounds": {
+    "x": 16467.1,
+    "y": 29751.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Algebra.Category": {
+    "x": 17140.2,
+    "y": 29500.0,
+    "w": 27727.2,
+    "h": 2259.2,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Algebra.CharP": {
+    "x": 29346.8,
+    "y": 28492.7,
+    "w": 6737.7,
+    "h": 3518.3,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Algebra.CharZero": {
+    "x": 6361.0,
+    "y": 30003.7,
+    "w": 20301.3,
+    "h": 2007.3,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Algebra.ContinuedFractions": {
+    "x": 15433.4,
+    "y": 29500.0,
+    "w": 16654.8,
+    "h": 1755.5,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Algebra.CovariantAndContravariant": {
+    "x": 8793.9,
+    "y": 30255.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Algebra.CubicDiscriminant": {
+    "x": 33515.5,
+    "y": 31011.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Algebra.DirectLimit": {
+    "x": 32424.1,
+    "y": 29248.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Algebra.DirectSum": {
+    "x": 24468.7,
+    "y": 29248.2,
+    "w": 14775.5,
+    "h": 2511.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Algebra.Divisibility": {
+    "x": 6114.2,
+    "y": 30255.5,
+    "w": 5194.7,
+    "h": 1503.7,
+    "color": "#854F0B"
+  },
+  "Mathlib.Algebra.DualNumber": {
+    "x": 27591.0,
+    "y": 30759.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Algebra.DualQuaternion": {
+    "x": 35519.6,
+    "y": 30759.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Algebra.EuclideanDomain": {
+    "x": 6602.3,
+    "y": 29751.8,
+    "w": 7827.2,
+    "h": 1755.5,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Algebra.Exact": {
+    "x": 26924.2,
+    "y": 29751.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Algebra.Expr": {
+    "x": 4309.0,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Algebra.Field": {
+    "x": 6176.5,
+    "y": 28996.3,
+    "w": 12952.0,
+    "h": 1755.5,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Algebra.Free": {
+    "x": 15316.6,
+    "y": 29751.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Algebra.FreeAlgebra": {
+    "x": 31288.6,
+    "y": 29751.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Algebra.FreeMonoid": {
+    "x": 15896.6,
+    "y": 30003.7,
+    "w": 1076.6,
+    "h": 1251.8,
+    "color": "#1E4078"
+  },
+  "Mathlib.Algebra.FreeNonUnitalNonAssocAlgebra": {
+    "x": 28011.8,
+    "y": 29500.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Algebra.Function": {
+    "x": 16087.8,
+    "y": 30003.7,
+    "w": 7705.9,
+    "h": 1251.8,
+    "color": "#534AB7"
+  },
+  "Mathlib.Algebra.GCDMonoid": {
+    "x": 17765.3,
+    "y": 30003.7,
+    "w": 21189.0,
+    "h": 1755.5,
+    "color": "#854F0B"
+  },
+  "Mathlib.Algebra.GeomSum": {
+    "x": 24753.6,
+    "y": 30507.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Algebra.GradedMonoid": {
+    "x": 18987.2,
+    "y": 29751.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Algebra.GradedMulAction": {
+    "x": 19022.6,
+    "y": 29500.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Algebra.Group": {
+    "x": 5468.2,
+    "y": 29248.2,
+    "w": 25957.4,
+    "h": 2762.8,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Algebra.GroupPower": {
+    "x": 9493.3,
+    "y": 29751.8,
+    "w": 23507.0,
+    "h": 2007.4,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Algebra.GroupRingAction": {
+    "x": 18200.7,
+    "y": 29500.0,
+    "w": 8771.8,
+    "h": 2007.3,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Algebra.GroupWithZero": {
+    "x": 5601.1,
+    "y": 29248.2,
+    "w": 19549.4,
+    "h": 2511.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Algebra.HierarchyDesign": {
+    "x": 2462.8,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Algebra.Homology": {
+    "x": 6051.6,
+    "y": 28996.3,
+    "w": 34082.9,
+    "h": 3014.7,
+    "color": "#1E4078"
+  },
+  "Mathlib.Algebra.Invertible": {
+    "x": 5534.9,
+    "y": 29248.2,
+    "w": 6330.9,
+    "h": 2007.3,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Algebra.IsPrimePow": {
+    "x": 23540.9,
+    "y": 29751.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Algebra.Jordan": {
+    "x": 34811.3,
+    "y": 28492.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Algebra.Lie": {
+    "x": 25537.8,
+    "y": 26729.8,
+    "w": 15375.5,
+    "h": 5533.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Algebra.LinearRecurrence": {
+    "x": 35709.3,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Algebra.ModEq": {
+    "x": 25941.5,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Algebra.Module": {
+    "x": 20278.8,
+    "y": 28744.5,
+    "w": 29048.8,
+    "h": 3770.2,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Algebra.MonoidAlgebra": {
+    "x": 27951.9,
+    "y": 29500.0,
+    "w": 4508.2,
+    "h": 2511.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Algebra.NeZero": {
+    "x": 5468.2,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Algebra.Opposites": {
+    "x": 7465.3,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Algebra.Order": {
+    "x": 6602.3,
+    "y": 28996.3,
+    "w": 35544.1,
+    "h": 3014.7,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Algebra.PEmptyInstances": {
+    "x": 5534.9,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Algebra.PUnitInstances": {
+    "x": 20519.1,
+    "y": 29751.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Algebra.Parity": {
+    "x": 15472.2,
+    "y": 30507.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Algebra.Periodic": {
+    "x": 25693.4,
+    "y": 29500.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Algebra.Pointwise": {
+    "x": 26893.7,
+    "y": 30255.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Algebra.Polynomial": {
+    "x": 30222.8,
+    "y": 30255.5,
+    "w": 2862.5,
+    "h": 1503.7,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Algebra.QuadraticDiscriminant": {
+    "x": 29727.7,
+    "y": 29751.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Algebra.Quandle": {
+    "x": 22761.0,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Algebra.Quaternion": {
+    "x": 35438.2,
+    "y": 29751.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Algebra.QuaternionBasis": {
+    "x": 35465.4,
+    "y": 30507.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Algebra.Quotient": {
+    "x": 10957.3,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Algebra.Regular": {
+    "x": 10214.7,
+    "y": 30003.7,
+    "w": 11747.4,
+    "h": 3518.3,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Algebra.Ring": {
+    "x": 6051.6,
+    "y": 29248.2,
+    "w": 22509.2,
+    "h": 2762.8,
+    "color": "#1E4078"
+  },
+  "Mathlib.Algebra.RingQuot": {
+    "x": 30222.8,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Algebra.SMulWithZero": {
+    "x": 11093.8,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Algebra.Squarefree": {
+    "x": 32424.1,
+    "y": 30507.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Algebra.Star": {
+    "x": 19655.1,
+    "y": 28996.3,
+    "w": 15827.3,
+    "h": 2511.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Algebra.Symmetrized": {
+    "x": 34838.7,
+    "y": 26981.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Algebra.TrivSqZeroExt": {
+    "x": 27560.8,
+    "y": 30255.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Algebra.Tropical": {
+    "x": 15081.9,
+    "y": 29248.2,
+    "w": 9102.9,
+    "h": 1503.6,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.AlgebraicGeometry.AffineScheme": {
+    "x": 45422.9,
+    "y": 24211.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.AlgebraicGeometry.EllipticCurve": {
+    "x": 33598.8,
+    "y": 24463.4,
+    "w": 8471.0,
+    "h": 1251.8,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.AlgebraicGeometry.FunctionField": {
+    "x": 45545.4,
+    "y": 24463.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.AlgebraicGeometry.GammaSpecAdjunction": {
+    "x": 45349.4,
+    "y": 24463.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.AlgebraicGeometry.Gluing": {
+    "x": 45447.4,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.AlgebraicGeometry.Limits": {
+    "x": 45667.8,
+    "y": 24211.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.AlgebraicGeometry.Morphisms": {
+    "x": 45692.3,
+    "y": 23959.7,
+    "w": 1146.6,
+    "h": 2762.8,
+    "color": "#534AB7"
+  },
+  "Mathlib.AlgebraicGeometry.OpenImmersion": {
+    "x": 45275.7,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.AlgebraicGeometry.PrimeSpectrum": {
+    "x": 38925.8,
+    "y": 24715.2,
+    "w": 1078.3,
+    "h": 1503.7,
+    "color": "#993C1D"
+  },
+  "Mathlib.AlgebraicGeometry.ProjectiveSpectrum": {
+    "x": 34701.8,
+    "y": 24967.0,
+    "w": 11794.7,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.AlgebraicGeometry.Properties": {
+    "x": 45521.0,
+    "y": 23959.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.AlgebraicGeometry.Pullbacks": {
+    "x": 45643.4,
+    "y": 24715.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.AlgebraicGeometry.Restrict": {
+    "x": 45300.3,
+    "y": 24715.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.AlgebraicGeometry.Scheme": {
+    "x": 45226.6,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.AlgebraicGeometry.Sites": {
+    "x": 45667.8,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.AlgebraicGeometry.Spec": {
+    "x": 45202.1,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.AlgebraicGeometry.StructureSheaf": {
+    "x": 44808.3,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.AlgebraicTopology.AlternatingFaceMapComplex": {
+    "x": 32000.3,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.AlgebraicTopology.CechNerve": {
+    "x": 26893.7,
+    "y": 17160.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.AlgebraicTopology.DoldKan": {
+    "x": 12374.3,
+    "y": 15649.2,
+    "w": 22196.7,
+    "h": 2762.9,
+    "color": "#854F0B"
+  },
+  "Mathlib.AlgebraicTopology.ExtraDegeneracy": {
+    "x": 39186.7,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.AlgebraicTopology.FundamentalGroupoid": {
+    "x": 36785.4,
+    "y": 16404.7,
+    "w": 1480.0,
+    "h": 2007.4,
+    "color": "#3B6D11"
+  },
+  "Mathlib.AlgebraicTopology.MooreComplex": {
+    "x": 28904.7,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.AlgebraicTopology.Nerve": {
+    "x": 36812.2,
+    "y": 16656.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.AlgebraicTopology.SimplexCategory": {
+    "x": 26618.8,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.AlgebraicTopology.SimplicialObject": {
+    "x": 26710.5,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.AlgebraicTopology.SimplicialSet": {
+    "x": 36731.9,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.AlgebraicTopology.SplitSimplicialObject": {
+    "x": 26893.7,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.AlgebraicTopology.TopologicalSimplex": {
+    "x": 36249.0,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Analysis.Analytic": {
+    "x": 38454.4,
+    "y": 18167.5,
+    "w": 4632.3,
+    "h": 4777.5,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Analysis.Asymptotics": {
+    "x": 36490.8,
+    "y": 18167.5,
+    "w": 1401.5,
+    "h": 3770.2,
+    "color": "#534AB7"
+  },
+  "Mathlib.Analysis.BoundedVariation": {
+    "x": 49042.6,
+    "y": 19426.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Analysis.BoxIntegral": {
+    "x": 30541.3,
+    "y": 18167.5,
+    "w": 18834.1,
+    "h": 2511.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Analysis.Calculus": {
+    "x": 37663.5,
+    "y": 15649.2,
+    "w": 14545.9,
+    "h": 7044.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Analysis.Complex": {
+    "x": 40145.7,
+    "y": 17915.7,
+    "w": 12320.2,
+    "h": 3266.5,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Analysis.ConstantSpeed": {
+    "x": 49066.3,
+    "y": 19174.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Analysis.Convex": {
+    "x": 29140.8,
+    "y": 17915.7,
+    "w": 19923.5,
+    "h": 3266.5,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Analysis.Convolution": {
+    "x": 48876.1,
+    "y": 19174.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Analysis.Distribution": {
+    "x": 43643.3,
+    "y": 19174.9,
+    "w": 8285.6,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Analysis.Fourier": {
+    "x": 47944.5,
+    "y": 18671.2,
+    "w": 3562.5,
+    "h": 1503.7,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Analysis.Hofer": {
+    "x": 35898.6,
+    "y": 19426.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Analysis.InnerProductSpace": {
+    "x": 44264.5,
+    "y": 18167.5,
+    "w": 3523.1,
+    "h": 3518.4,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Analysis.LocallyConvex": {
+    "x": 36168.3,
+    "y": 18923.0,
+    "w": 3233.6,
+    "h": 2511.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Analysis.Matrix": {
+    "x": 45838.9,
+    "y": 19678.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Analysis.MeanInequalities": {
+    "x": 41681.2,
+    "y": 19426.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Analysis.MeanInequalitiesPow": {
+    "x": 41655.8,
+    "y": 19678.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Analysis.MellinTransform": {
+    "x": 50741.5,
+    "y": 19426.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Analysis.Normed": {
+    "x": 27891.8,
+    "y": 17915.7,
+    "w": 11955.6,
+    "h": 9562.3,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Analysis.NormedSpace": {
+    "x": 33543.3,
+    "y": 18167.5,
+    "w": 19573.4,
+    "h": 13088.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Analysis.ODE": {
+    "x": 44635.6,
+    "y": 18671.2,
+    "w": 6306.6,
+    "h": 1755.5,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Analysis.PSeries": {
+    "x": 41095.4,
+    "y": 20182.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Analysis.Quaternion": {
+    "x": 45863.4,
+    "y": 19930.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Analysis.Seminorm": {
+    "x": 36731.9,
+    "y": 19426.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Analysis.SpecialFunctions": {
+    "x": 37477.9,
+    "y": 17915.7,
+    "w": 16032.3,
+    "h": 4022.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Analysis.SpecificLimits": {
+    "x": 35871.6,
+    "y": 18419.4,
+    "w": 6198.2,
+    "h": 2762.8,
+    "color": "#534AB7"
+  },
+  "Mathlib.Analysis.Subadditive": {
+    "x": 33041.6,
+    "y": 19174.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Analysis.SumIntegralComparisons": {
+    "x": 49895.0,
+    "y": 18923.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Analysis.VonNeumannAlgebra": {
+    "x": 46058.6,
+    "y": 19930.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.CategoryTheory.Abelian": {
+    "x": 16954.5,
+    "y": 18923.0,
+    "w": 21867.7,
+    "h": 3014.7,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.CategoryTheory.Action": {
+    "x": 29434.9,
+    "y": 20182.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.CategoryTheory.Adhesive": {
+    "x": 29698.5,
+    "y": 20685.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.CategoryTheory.Adjunction": {
+    "x": 12374.3,
+    "y": 18671.2,
+    "w": 15336.2,
+    "h": 4525.7,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.CategoryTheory.Arrow": {
+    "x": 12503.1,
+    "y": 22196.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.CategoryTheory.Balanced": {
+    "x": 12970.2,
+    "y": 19174.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.CategoryTheory.Bicategory": {
+    "x": 12114.7,
+    "y": 20685.9,
+    "w": 5314.6,
+    "h": 3014.6,
+    "color": "#1E4078"
+  },
+  "Mathlib.CategoryTheory.CatCommSq": {
+    "x": 12374.3,
+    "y": 19930.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.CategoryTheory.Category": {
+    "x": 11764.5,
+    "y": 19930.4,
+    "w": 13290.2,
+    "h": 9058.6,
+    "color": "#534AB7"
+  },
+  "Mathlib.CategoryTheory.Closed": {
+    "x": 17288.2,
+    "y": 19678.5,
+    "w": 9249.6,
+    "h": 2007.4,
+    "color": "#854F0B"
+  },
+  "Mathlib.CategoryTheory.CofilteredSystem": {
+    "x": 28549.0,
+    "y": 20685.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.CategoryTheory.CommSq": {
+    "x": 12545.9,
+    "y": 21441.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.CategoryTheory.Comma": {
+    "x": 12460.2,
+    "y": 21189.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.CategoryTheory.ComposableArrows": {
+    "x": 22465.5,
+    "y": 20434.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.CategoryTheory.ConcreteCategory": {
+    "x": 2462.8,
+    "y": 20434.0,
+    "w": 15640.4,
+    "h": 4273.9,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.CategoryTheory.Conj": {
+    "x": 14327.1,
+    "y": 20434.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.CategoryTheory.ConnectedComponents": {
+    "x": 17362.0,
+    "y": 20434.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.CategoryTheory.Core": {
+    "x": 14487.5,
+    "y": 19678.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.CategoryTheory.DifferentialObject": {
+    "x": 17692.3,
+    "y": 20937.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.CategoryTheory.DiscreteCategory": {
+    "x": 13012.3,
+    "y": 20434.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.CategoryTheory.Elements": {
+    "x": 16391.5,
+    "y": 19426.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.CategoryTheory.Elementwise": {
+    "x": 16730.3,
+    "y": 23204.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.CategoryTheory.Endofunctor": {
+    "x": 16315.8,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.CategoryTheory.Endomorphism": {
+    "x": 14206.2,
+    "y": 20182.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.CategoryTheory.Enriched": {
+    "x": 25068.6,
+    "y": 19174.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.CategoryTheory.EpiMono": {
+    "x": 12928.1,
+    "y": 19678.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.CategoryTheory.EqToHom": {
+    "x": 12417.3,
+    "y": 20685.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.CategoryTheory.Equivalence": {
+    "x": 12331.2,
+    "y": 19678.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.CategoryTheory.EssentialImage": {
+    "x": 12201.5,
+    "y": 19174.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.CategoryTheory.EssentiallySmall": {
+    "x": 15588.5,
+    "y": 20182.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.CategoryTheory.Extensive": {
+    "x": 29610.7,
+    "y": 20937.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.CategoryTheory.Filtered": {
+    "x": 23184.8,
+    "y": 20434.0,
+    "w": 1388.3,
+    "h": 1503.7,
+    "color": "#0F6E56"
+  },
+  "Mathlib.CategoryTheory.FinCategory": {
+    "x": 22300.7,
+    "y": 20434.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.CategoryTheory.FintypeCat": {
+    "x": 24022.7,
+    "y": 21441.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.CategoryTheory.FullSubcategory": {
+    "x": 12158.2,
+    "y": 19678.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.CategoryTheory.Functor": {
+    "x": 11808.5,
+    "y": 19678.5,
+    "w": 14134.3,
+    "h": 3014.7,
+    "color": "#3B6D11"
+  },
+  "Mathlib.CategoryTheory.Generator": {
+    "x": 26373.3,
+    "y": 19678.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.CategoryTheory.GlueData": {
+    "x": 24500.5,
+    "y": 21189.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.CategoryTheory.GradedObject": {
+    "x": 20758.1,
+    "y": 20182.2,
+    "w": 1068.1,
+    "h": 1503.7,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.CategoryTheory.Grothendieck": {
+    "x": 16429.3,
+    "y": 18167.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.CategoryTheory.Groupoid": {
+    "x": 12885.9,
+    "y": 19426.7,
+    "w": 11331.4,
+    "h": 2762.8,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.CategoryTheory.Idempotents": {
+    "x": 26434.8,
+    "y": 18419.4,
+    "w": 2965.4,
+    "h": 2762.8,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.CategoryTheory.IsConnected": {
+    "x": 17288.2,
+    "y": 20182.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.CategoryTheory.Iso": {
+    "x": 11940.2,
+    "y": 21189.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.CategoryTheory.IsomorphismClasses": {
+    "x": 14726.5,
+    "y": 20434.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.CategoryTheory.LiftingProperties": {
+    "x": 12588.6,
+    "y": 21945.0,
+    "w": 1085.3,
+    "h": 1251.9,
+    "color": "#854F0B"
+  },
+  "Mathlib.CategoryTheory.Limits": {
+    "x": 13179.9,
+    "y": 16404.7,
+    "w": 14957.2,
+    "h": 7547.7,
+    "color": "#993C1D"
+  },
+  "Mathlib.CategoryTheory.Linear": {
+    "x": 28400.2,
+    "y": 20434.0,
+    "w": 2531.8,
+    "h": 1251.9,
+    "color": "#3B6D11"
+  },
+  "Mathlib.CategoryTheory.Localization": {
+    "x": 24816.8,
+    "y": 17412.1,
+    "w": 1157.5,
+    "h": 3266.4,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.CategoryTheory.Monad": {
+    "x": 13388.1,
+    "y": 16656.6,
+    "w": 12649.0,
+    "h": 14850.7,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.CategoryTheory.Monoidal": {
+    "x": 12631.3,
+    "y": 16908.4,
+    "w": 23398.6,
+    "h": 5533.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.CategoryTheory.MorphismProperty": {
+    "x": 24690.4,
+    "y": 21693.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.CategoryTheory.NatIso": {
+    "x": 12071.2,
+    "y": 20685.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.CategoryTheory.NatTrans": {
+    "x": 11940.2,
+    "y": 19930.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.CategoryTheory.Noetherian": {
+    "x": 27076.3,
+    "y": 19930.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.CategoryTheory.Opposites": {
+    "x": 12374.3,
+    "y": 20182.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.CategoryTheory.Over": {
+    "x": 16391.5,
+    "y": 19678.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.CategoryTheory.PEmpty": {
+    "x": 13054.3,
+    "y": 20685.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.CategoryTheory.PUnit": {
+    "x": 13096.2,
+    "y": 20434.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.CategoryTheory.PathCategory": {
+    "x": 12588.6,
+    "y": 20685.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.CategoryTheory.Pi": {
+    "x": 12673.9,
+    "y": 21189.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.CategoryTheory.Preadditive": {
+    "x": 24341.7,
+    "y": 19678.5,
+    "w": 18517.1,
+    "h": 3266.5,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.CategoryTheory.Products": {
+    "x": 12588.6,
+    "y": 20182.2,
+    "w": 1042.7,
+    "h": 1755.5,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.CategoryTheory.Quotient": {
+    "x": 12460.2,
+    "y": 20937.7,
+    "w": 14543.2,
+    "h": 1503.7,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.CategoryTheory.Shift": {
+    "x": 17177.3,
+    "y": 19174.9,
+    "w": 13521.2,
+    "h": 2511.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.CategoryTheory.Sigma": {
+    "x": 12201.5,
+    "y": 21441.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.CategoryTheory.Simple": {
+    "x": 27045.9,
+    "y": 19678.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.CategoryTheory.SingleObj": {
+    "x": 23119.8,
+    "y": 21693.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.CategoryTheory.Sites": {
+    "x": 16991.7,
+    "y": 19426.7,
+    "w": 14665.0,
+    "h": 3518.3,
+    "color": "#534AB7"
+  },
+  "Mathlib.CategoryTheory.Skeletal": {
+    "x": 15160.3,
+    "y": 20434.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.CategoryTheory.StructuredArrow": {
+    "x": 16353.7,
+    "y": 20685.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.CategoryTheory.Subobject": {
+    "x": 17765.3,
+    "y": 19426.7,
+    "w": 8710.1,
+    "h": 2762.8,
+    "color": "#3B6D11"
+  },
+  "Mathlib.CategoryTheory.Subterminal": {
+    "x": 17801.8,
+    "y": 19174.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.CategoryTheory.Sums": {
+    "x": 12460.2,
+    "y": 18923.0,
+    "w": 1042.9,
+    "h": 1251.9,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.CategoryTheory.Thin": {
+    "x": 12071.2,
+    "y": 20434.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.CategoryTheory.Triangulated": {
+    "x": 24595.5,
+    "y": 19930.4,
+    "w": 11489.0,
+    "h": 1503.6,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.CategoryTheory.Types": {
+    "x": 14407.4,
+    "y": 19930.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.CategoryTheory.UnivLE": {
+    "x": 14527.4,
+    "y": 19426.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.CategoryTheory.Whiskering": {
+    "x": 12158.2,
+    "y": 19426.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.CategoryTheory.WithTerminal": {
+    "x": 16315.8,
+    "y": 20434.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.CategoryTheory.Yoneda": {
+    "x": 14567.4,
+    "y": 20182.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Combinatorics.Additive": {
+    "x": 21669.3,
+    "y": 37558.6,
+    "w": 26336.1,
+    "h": 1251.9,
+    "color": "#854F0B"
+  },
+  "Mathlib.Combinatorics.Catalan": {
+    "x": 27591.0,
+    "y": 37558.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Combinatorics.Colex": {
+    "x": 25005.7,
+    "y": 37558.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Combinatorics.Composition": {
+    "x": 23766.3,
+    "y": 37306.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Combinatorics.Configuration": {
+    "x": 29756.9,
+    "y": 37558.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Combinatorics.Derangements": {
+    "x": 27711.5,
+    "y": 37558.6,
+    "w": 16106.2,
+    "h": 1251.9,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Combinatorics.DoubleCounting": {
+    "x": 22564.2,
+    "y": 37810.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Combinatorics.HalesJewett": {
+    "x": 22564.2,
+    "y": 37558.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Combinatorics.Hall": {
+    "x": 22793.7,
+    "y": 37558.6,
+    "w": 6874.0,
+    "h": 1251.9,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Combinatorics.Hindman": {
+    "x": 25475.4,
+    "y": 37810.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Combinatorics.Optimization": {
+    "x": 18308.8,
+    "y": 37558.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Combinatorics.Partition": {
+    "x": 24309.8,
+    "y": 37306.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Combinatorics.Pigeonhole": {
+    "x": 23894.6,
+    "y": 37558.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Combinatorics.Quiver": {
+    "x": 6954.8,
+    "y": 37558.6,
+    "w": 6462.5,
+    "h": 1251.9,
+    "color": "#993C1D"
+  },
+  "Mathlib.Combinatorics.Schnirelmann": {
+    "x": 25631.2,
+    "y": 37558.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Combinatorics.SetFamily": {
+    "x": 19724.8,
+    "y": 37055.0,
+    "w": 16031.8,
+    "h": 2007.3,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Combinatorics.SimpleGraph": {
+    "x": 20796.2,
+    "y": 29751.8,
+    "w": 21885.0,
+    "h": 9562.3,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Combinatorics.Young": {
+    "x": 23152.3,
+    "y": 37810.5,
+    "w": 1032.5,
+    "h": 1251.8,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Computability.Ackermann": {
+    "x": 23540.9,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Computability.AkraBazzi": {
+    "x": 41172.0,
+    "y": 23707.9,
+    "w": 5569.2,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Computability.ContextFreeGrammar": {
+    "x": 22662.7,
+    "y": 23456.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Computability.DFA": {
+    "x": 22891.7,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Computability.Encoding": {
+    "x": 27228.1,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Computability.EpsilonNFA": {
+    "x": 23119.8,
+    "y": 23456.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Computability.Halting": {
+    "x": 22859.1,
+    "y": 22700.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Computability.Language": {
+    "x": 22629.9,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Computability.NFA": {
+    "x": 23087.3,
+    "y": 23959.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Computability.Partrec": {
+    "x": 22793.7,
+    "y": 23204.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Computability.PartrecCode": {
+    "x": 22826.4,
+    "y": 22952.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Computability.Primrec": {
+    "x": 22597.0,
+    "y": 23204.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Computability.Reduce": {
+    "x": 22891.7,
+    "y": 22700.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Computability.RegularExpressions": {
+    "x": 22662.7,
+    "y": 24211.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Computability.TMComputable": {
+    "x": 30627.9,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Computability.TMToPartrec": {
+    "x": 23444.0,
+    "y": 23959.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Computability.TuringMachine": {
+    "x": 22201.5,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Condensed.Abelian": {
+    "x": 43842.5,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Condensed.Adjunctions": {
+    "x": 43966.8,
+    "y": 16656.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Condensed.Basic": {
+    "x": 41375.9,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Condensed.Discrete": {
+    "x": 41503.2,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Condensed.Equivalence": {
+    "x": 42086.7,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Condensed.Explicit": {
+    "x": 44314.1,
+    "y": 16908.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Condensed.Functors": {
+    "x": 42162.6,
+    "y": 17160.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Condensed.Limits": {
+    "x": 43867.4,
+    "y": 17160.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Condensed.Solid": {
+    "x": 44512.0,
+    "y": 17160.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Control.Applicative": {
+    "x": 5861.2,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Control.Basic": {
+    "x": 4618.4,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Control.Bifunctor": {
+    "x": 11048.4,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Control.Bitraversable": {
+    "x": 11364.3,
+    "y": 40077.0,
+    "w": 1223.1,
+    "h": 1251.8,
+    "color": "#534AB7"
+  },
+  "Mathlib.Control.EquivFunctor": {
+    "x": 7070.0,
+    "y": 40077.0,
+    "w": 13164.5,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Control.Fix": {
+    "x": 15238.6,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Control.Fold": {
+    "x": 18200.7,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Control.Functor": {
+    "x": 4767.4,
+    "y": 40077.0,
+    "w": 7281.0,
+    "h": 1251.8,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Control.LawfulFix": {
+    "x": 16617.7,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Control.Monad": {
+    "x": 6954.8,
+    "y": 40077.0,
+    "w": 5853.7,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Control.Random": {
+    "x": 16467.1,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Control.Traversable": {
+    "x": 5732.1,
+    "y": 40077.0,
+    "w": 11507.9,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Control.ULift": {
+    "x": 2462.8,
+    "y": 36803.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Control.ULiftable": {
+    "x": 12460.2,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Data.Analysis": {
+    "x": 23990.7,
+    "y": 24715.2,
+    "w": 1699.7,
+    "h": 1251.8,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Data.Array": {
+    "x": 2211.0,
+    "y": 24967.0,
+    "w": 15142.7,
+    "h": 1503.7,
+    "color": "#534AB7"
+  },
+  "Mathlib.Data.BinaryHeap": {
+    "x": 1707.3,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Data.BitVec": {
+    "x": 22399.6,
+    "y": 23456.0,
+    "w": 1033.0,
+    "h": 1755.5,
+    "color": "#993C1D"
+  },
+  "Mathlib.Data.Bool": {
+    "x": 5925.1,
+    "y": 23707.9,
+    "w": 15799.0,
+    "h": 2762.8,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Data.Bracket": {
+    "x": 2766.4,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Data.Buffer": {
+    "x": 700.0,
+    "y": 24967.0,
+    "w": 4194.9,
+    "h": 1251.9,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Data.Bundle": {
+    "x": 20313.2,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Data.ByteArray": {
+    "x": 22465.5,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Data.Char": {
+    "x": 22432.6,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Data.Complex": {
+    "x": 21568.9,
+    "y": 24463.4,
+    "w": 24165.4,
+    "h": 2762.8,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Data.Countable": {
+    "x": 12201.5,
+    "y": 24967.0,
+    "w": 8348.8,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Data.DFinsupp": {
+    "x": 24437.0,
+    "y": 24463.4,
+    "w": 3181.8,
+    "h": 2762.8,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Data.DList": {
+    "x": 2766.4,
+    "y": 24967.0,
+    "w": 14662.9,
+    "h": 1503.7,
+    "color": "#534AB7"
+  },
+  "Mathlib.Data.ENat": {
+    "x": 19128.7,
+    "y": 23204.2,
+    "w": 5315.3,
+    "h": 2259.2,
+    "color": "#854F0B"
+  },
+  "Mathlib.Data.Equiv": {
+    "x": 7070.0,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Data.Erased": {
+    "x": 6838.4,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Data.FP": {
+    "x": 21635.9,
+    "y": 24211.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Data.Fin": {
+    "x": 2625.8,
+    "y": 22448.7,
+    "w": 25237.4,
+    "h": 5029.3,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Data.FinEnum": {
+    "x": 19340.0,
+    "y": 24463.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Data.Finite": {
+    "x": 8433.3,
+    "y": 24967.0,
+    "w": 18073.3,
+    "h": 2762.8,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Data.Finmap": {
+    "x": 19898.7,
+    "y": 25974.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Data.Finset": {
+    "x": 19093.4,
+    "y": 22196.9,
+    "w": 14555.8,
+    "h": 6036.6,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Data.Finsupp": {
+    "x": 23119.8,
+    "y": 23707.9,
+    "w": 5078.0,
+    "h": 4273.8,
+    "color": "#1E4078"
+  },
+  "Mathlib.Data.Fintype": {
+    "x": 19199.2,
+    "y": 22700.5,
+    "w": 7307.4,
+    "h": 6540.3,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Data.FunLike": {
+    "x": 5534.9,
+    "y": 23959.7,
+    "w": 18193.3,
+    "h": 1755.5,
+    "color": "#534AB7"
+  },
+  "Mathlib.Data.HashMap": {
+    "x": 3894.9,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Data.Holor": {
+    "x": 22465.5,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Data.Int": {
+    "x": 5732.1,
+    "y": 22700.5,
+    "w": 18387.7,
+    "h": 4777.5,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Data.IsROrC": {
+    "x": 36758.7,
+    "y": 24967.0,
+    "w": 7209.6,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Data.LazyList": {
+    "x": 2462.8,
+    "y": 24967.0,
+    "w": 14966.5,
+    "h": 1251.9,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Data.List": {
+    "x": 5601.1,
+    "y": 22448.7,
+    "w": 20843.1,
+    "h": 5029.3,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Data.MLList": {
+    "x": 1203.7,
+    "y": 24967.0,
+    "w": 22916.1,
+    "h": 2511.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Data.Matrix": {
+    "x": 19340.0,
+    "y": 22952.4,
+    "w": 22525.2,
+    "h": 4777.4,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Data.Matroid": {
+    "x": 20796.2,
+    "y": 25722.5,
+    "w": 5959.3,
+    "h": 3518.3,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Data.Multiset": {
+    "x": 18236.8,
+    "y": 21945.0,
+    "w": 9320.7,
+    "h": 6540.3,
+    "color": "#1E4078"
+  },
+  "Mathlib.Data.MvPolynomial": {
+    "x": 31431.5,
+    "y": 23707.9,
+    "w": 4160.7,
+    "h": 4777.4,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Data.Nat": {
+    "x": 5666.8,
+    "y": 22700.5,
+    "w": 32625.2,
+    "h": 6036.7,
+    "color": "#534AB7"
+  },
+  "Mathlib.Data.Nondet": {
+    "x": 2462.8,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Data.Num": {
+    "x": 6299.9,
+    "y": 23959.7,
+    "w": 15831.5,
+    "h": 2259.2,
+    "color": "#993C1D"
+  },
+  "Mathlib.Data.Opposite": {
+    "x": 6838.4,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Data.Option": {
+    "x": 3894.9,
+    "y": 24463.4,
+    "w": 2966.3,
+    "h": 1251.8,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Data.Ordmap": {
+    "x": 9591.0,
+    "y": 24463.4,
+    "w": 12064.8,
+    "h": 1251.8,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Data.PEquiv": {
+    "x": 10402.8,
+    "y": 24715.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Data.PFun": {
+    "x": 12158.2,
+    "y": 23959.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Data.PFunctor": {
+    "x": 22629.9,
+    "y": 26981.7,
+    "w": 1196.5,
+    "h": 3518.3,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Data.PNat": {
+    "x": 7184.2,
+    "y": 24715.2,
+    "w": 16968.1,
+    "h": 4273.8,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Data.PSigma": {
+    "x": 9493.3,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Data.Part": {
+    "x": 10449.5,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Data.Pi": {
+    "x": 6051.6,
+    "y": 26981.7,
+    "w": 18198.1,
+    "h": 4273.8,
+    "color": "#534AB7"
+  },
+  "Mathlib.Data.Polynomial": {
+    "x": 27981.8,
+    "y": 23707.9,
+    "w": 24530.7,
+    "h": 3266.4,
+    "color": "#854F0B"
+  },
+  "Mathlib.Data.Prod": {
+    "x": 4542.6,
+    "y": 24715.2,
+    "w": 13037.5,
+    "h": 1503.7,
+    "color": "#993C1D"
+  },
+  "Mathlib.Data.QPF": {
+    "x": 22695.4,
+    "y": 22448.7,
+    "w": 1196.3,
+    "h": 10066.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Data.Quot": {
+    "x": 6114.2,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Data.Rat": {
+    "x": 12545.9,
+    "y": 24463.4,
+    "w": 15742.8,
+    "h": 3014.6,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Data.Rbmap": {
+    "x": 2462.8,
+    "y": 23456.0,
+    "w": 1000.0,
+    "h": 4022.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Data.Rbtree": {
+    "x": 2462.8,
+    "y": 24211.5,
+    "w": 22859.1,
+    "h": 4022.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Data.Real": {
+    "x": 20792.2,
+    "y": 24463.4,
+    "w": 30102.8,
+    "h": 2259.1,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Data.Rel": {
+    "x": 12027.6,
+    "y": 23456.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Data.SProd": {
+    "x": 3233.3,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Data.Semiquot": {
+    "x": 11896.4,
+    "y": 24715.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Data.Seq": {
+    "x": 15238.6,
+    "y": 23456.0,
+    "w": 1194.8,
+    "h": 2762.9,
+    "color": "#534AB7"
+  },
+  "Mathlib.Data.Set": {
+    "x": 10355.9,
+    "y": 23204.2,
+    "w": 16181.9,
+    "h": 6288.5,
+    "color": "#854F0B"
+  },
+  "Mathlib.Data.SetLike": {
+    "x": 10496.2,
+    "y": 24715.2,
+    "w": 12705.3,
+    "h": 1755.5,
+    "color": "#993C1D"
+  },
+  "Mathlib.Data.Setoid": {
+    "x": 11808.5,
+    "y": 24967.0,
+    "w": 12408.8,
+    "h": 2762.8,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Data.Sigma": {
+    "x": 5400.9,
+    "y": 23204.2,
+    "w": 18718.9,
+    "h": 3770.1,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Data.Sign": {
+    "x": 23217.3,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Data.Stream": {
+    "x": 2625.8,
+    "y": 23959.7,
+    "w": 23955.2,
+    "h": 5029.3,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Data.String": {
+    "x": 2462.8,
+    "y": 26226.2,
+    "w": 21002.7,
+    "h": 1755.5,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Data.Subtype": {
+    "x": 5400.9,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Data.Sum": {
+    "x": 5468.2,
+    "y": 23204.2,
+    "w": 18619.1,
+    "h": 3770.1,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Data.Sym": {
+    "x": 19058.0,
+    "y": 24463.4,
+    "w": 4996.8,
+    "h": 3518.3,
+    "color": "#1E4078"
+  },
+  "Mathlib.Data.Tree": {
+    "x": 7297.4,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Data.TwoPointing": {
+    "x": 5601.1,
+    "y": 24211.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Data.TypeMax": {
+    "x": 4228.9,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Data.TypeVec": {
+    "x": 11002.9,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Data.UInt": {
+    "x": 22399.6,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Data.ULift": {
+    "x": 8485.3,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Data.UnionFind": {
+    "x": 15199.5,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Data.Vector": {
+    "x": 12331.2,
+    "y": 22700.5,
+    "w": 6470.6,
+    "h": 3266.5,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Data.Vector3": {
+    "x": 4840.6,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Data.W": {
+    "x": 22597.0,
+    "y": 25974.3,
+    "w": 5540.1,
+    "h": 2511.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Data.ZMod": {
+    "x": 22366.7,
+    "y": 23959.7,
+    "w": 12065.3,
+    "h": 7044.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Deprecated.Group": {
+    "x": 9977.1,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Deprecated.Ring": {
+    "x": 10024.9,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Deprecated.Subfield": {
+    "x": 25162.7,
+    "y": 39069.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Deprecated.Subgroup": {
+    "x": 23508.6,
+    "y": 38817.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Deprecated.Submonoid": {
+    "x": 21029.9,
+    "y": 37810.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Deprecated.Subring": {
+    "x": 25131.3,
+    "y": 39321.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Dynamics.BirkhoffSum": {
+    "x": 20996.0,
+    "y": 11116.2,
+    "w": 16842.9,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Dynamics.Circle": {
+    "x": 35979.6,
+    "y": 11116.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Dynamics.Ergodic": {
+    "x": 36410.3,
+    "y": 8849.8,
+    "w": 13727.3,
+    "h": 2510.9,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Dynamics.FixedPoints": {
+    "x": 17983.6,
+    "y": 11116.2,
+    "w": 8460.6,
+    "h": 4525.7,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Dynamics.Flow": {
+    "x": 29111.4,
+    "y": 11116.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Dynamics.Minimal": {
+    "x": 26434.8,
+    "y": 11116.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Dynamics.OmegaLimit": {
+    "x": 29229.2,
+    "y": 11116.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Dynamics.PeriodicPts": {
+    "x": 21434.7,
+    "y": 11116.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.FieldTheory.AbelRuffini": {
+    "x": 52047.1,
+    "y": 36551.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.FieldTheory.AbsoluteGaloisGroup": {
+    "x": 40608.8,
+    "y": 36551.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.FieldTheory.Adjoin": {
+    "x": 38296.8,
+    "y": 36047.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.FieldTheory.AxGrothendieck": {
+    "x": 37769.3,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.FieldTheory.Cardinality": {
+    "x": 39420.8,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.FieldTheory.ChevalleyWarning": {
+    "x": 38033.4,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.FieldTheory.Finite": {
+    "x": 38007.1,
+    "y": 36047.6,
+    "w": 2906.2,
+    "h": 1503.7,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.FieldTheory.Finiteness": {
+    "x": 35383.9,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.FieldTheory.Fixed": {
+    "x": 38559.4,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.FieldTheory.Galois": {
+    "x": 39030.2,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.FieldTheory.IntermediateField": {
+    "x": 37927.9,
+    "y": 36047.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.FieldTheory.IsAlgClosed": {
+    "x": 38559.4,
+    "y": 36047.6,
+    "w": 1209.5,
+    "h": 1503.7,
+    "color": "#0F6E56"
+  },
+  "Mathlib.FieldTheory.IsSepClosed": {
+    "x": 38795.1,
+    "y": 35795.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.FieldTheory.KrullTopology": {
+    "x": 40557.5,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.FieldTheory.Laurent": {
+    "x": 35139.0,
+    "y": 36551.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.FieldTheory.Minpoly": {
+    "x": 37716.4,
+    "y": 36299.5,
+    "w": 2235.5,
+    "h": 1755.5,
+    "color": "#3B6D11"
+  },
+  "Mathlib.FieldTheory.MvPolynomial": {
+    "x": 35979.6,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.FieldTheory.Normal": {
+    "x": 38428.2,
+    "y": 35795.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.FieldTheory.NormalClosure": {
+    "x": 38454.4,
+    "y": 35544.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.FieldTheory.Perfect": {
+    "x": 38349.4,
+    "y": 36551.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.FieldTheory.PerfectClosure": {
+    "x": 38375.7,
+    "y": 36803.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.FieldTheory.PolynomialGaloisGroup": {
+    "x": 51861.4,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.FieldTheory.PrimitiveElement": {
+    "x": 38847.4,
+    "y": 35544.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.FieldTheory.RatFunc": {
+    "x": 34893.4,
+    "y": 37055.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.FieldTheory.Separable": {
+    "x": 37927.9,
+    "y": 36803.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.FieldTheory.SeparableDegree": {
+    "x": 38899.7,
+    "y": 36803.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.FieldTheory.SplittingField": {
+    "x": 38217.9,
+    "y": 35795.8,
+    "w": 1026.3,
+    "h": 1503.7,
+    "color": "#993C1D"
+  },
+  "Mathlib.FieldTheory.Subfield": {
+    "x": 26034.3,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.FieldTheory.Tower": {
+    "x": 35573.9,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Geometry.Euclidean": {
+    "x": 44289.3,
+    "y": 21693.2,
+    "w": 4799.0,
+    "h": 2511.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Geometry.Manifold": {
+    "x": 26588.1,
+    "y": 21441.4,
+    "w": 25761.3,
+    "h": 9814.1,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Geometry.RingedSpace": {
+    "x": 29376.2,
+    "y": 21945.0,
+    "w": 14617.1,
+    "h": 2007.4,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.GroupTheory.Abelianization": {
+    "x": 27106.7,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.GroupTheory.Archimedean": {
+    "x": 23540.9,
+    "y": 35795.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.GroupTheory.ClassEquation": {
+    "x": 27228.1,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.GroupTheory.Commensurable": {
+    "x": 27440.0,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.GroupTheory.Commutator": {
+    "x": 24816.8,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.GroupTheory.CommutingProbability": {
+    "x": 33903.6,
+    "y": 35292.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.GroupTheory.Complement": {
+    "x": 33459.9,
+    "y": 35292.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.GroupTheory.Congruence": {
+    "x": 13594.7,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.GroupTheory.Coprod": {
+    "x": 24309.8,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.GroupTheory.CoprodI": {
+    "x": 27591.0,
+    "y": 35292.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.GroupTheory.Coset": {
+    "x": 23573.1,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.GroupTheory.Divisible": {
+    "x": 25693.4,
+    "y": 34788.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.GroupTheory.DoubleCoset": {
+    "x": 25569.0,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.GroupTheory.EckmannHilton": {
+    "x": 5534.9,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.GroupTheory.Exponent": {
+    "x": 33737.5,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.GroupTheory.FiniteAbelian": {
+    "x": 44931.5,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.GroupTheory.Finiteness": {
+    "x": 26802.2,
+    "y": 34788.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.GroupTheory.FreeAbelianGroup": {
+    "x": 27167.5,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.GroupTheory.FreeAbelianGroupFinsupp": {
+    "x": 35492.5,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.GroupTheory.FreeGroup": {
+    "x": 22761.0,
+    "y": 35040.3,
+    "w": 7849.7,
+    "h": 1251.8,
+    "color": "#3B6D11"
+  },
+  "Mathlib.GroupTheory.GroupAction": {
+    "x": 9196.9,
+    "y": 34788.5,
+    "w": 18788.2,
+    "h": 1755.5,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.GroupTheory.HNNExtension": {
+    "x": 33515.5,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.GroupTheory.Index": {
+    "x": 27409.8,
+    "y": 34788.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.GroupTheory.MonoidLocalization": {
+    "x": 22859.1,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.GroupTheory.Nilpotent": {
+    "x": 34838.7,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.GroupTheory.NoncommCoprod": {
+    "x": 10308.9,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.GroupTheory.NoncommPiCoprod": {
+    "x": 27621.1,
+    "y": 34284.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.GroupTheory.Order": {
+    "x": 34701.8,
+    "y": 35544.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.GroupTheory.OrderOfElement": {
+    "x": 27500.5,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.GroupTheory.PGroup": {
+    "x": 34647.0,
+    "y": 34788.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.GroupTheory.Perm": {
+    "x": 17947.3,
+    "y": 35040.3,
+    "w": 16512.6,
+    "h": 1503.7,
+    "color": "#993C1D"
+  },
+  "Mathlib.GroupTheory.PresentedGroup": {
+    "x": 25693.4,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.GroupTheory.PushoutI": {
+    "x": 33848.3,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.GroupTheory.QuotientGroup": {
+    "x": 25631.2,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.GroupTheory.Schreier": {
+    "x": 34838.7,
+    "y": 36551.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.GroupTheory.SchurZassenhaus": {
+    "x": 34811.3,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.GroupTheory.SemidirectProduct": {
+    "x": 22135.3,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.GroupTheory.Solvable": {
+    "x": 27197.8,
+    "y": 34788.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.GroupTheory.SpecificGroups": {
+    "x": 33543.3,
+    "y": 34536.6,
+    "w": 1801.7,
+    "h": 1503.7,
+    "color": "#1E4078"
+  },
+  "Mathlib.GroupTheory.Subgroup": {
+    "x": 22102.1,
+    "y": 34284.8,
+    "w": 4373.3,
+    "h": 2259.2,
+    "color": "#0F6E56"
+  },
+  "Mathlib.GroupTheory.Submonoid": {
+    "x": 12374.3,
+    "y": 34536.6,
+    "w": 13410.9,
+    "h": 1755.5,
+    "color": "#534AB7"
+  },
+  "Mathlib.GroupTheory.Subsemigroup": {
+    "x": 12114.7,
+    "y": 35040.3,
+    "w": 4396.3,
+    "h": 1251.8,
+    "color": "#854F0B"
+  },
+  "Mathlib.GroupTheory.Sylow": {
+    "x": 34729.2,
+    "y": 34788.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.GroupTheory.Torsion": {
+    "x": 34674.4,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.GroupTheory.Transfer": {
+    "x": 34784.0,
+    "y": 35292.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.InformationTheory.Hamming": {
+    "x": 33515.5,
+    "y": 38062.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Init.Algebra": {
+    "x": 24070.1,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Init.Align": {
+    "x": 24070.1,
+    "y": 27233.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Init.CCLemmas": {
+    "x": 24070.1,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Init.Classes": {
+    "x": 21048.1,
+    "y": 27989.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Init.Classical": {
+    "x": 24825.6,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Init.Control": {
+    "x": 21048.1,
+    "y": 27485.3,
+    "w": 1503.6,
+    "h": 2762.9,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Init.Core": {
+    "x": 21803.6,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Init.Data": {
+    "x": 20796.2,
+    "y": 25470.7,
+    "w": 5784.8,
+    "h": 5281.1,
+    "color": "#854F0B"
+  },
+  "Mathlib.Init.Function": {
+    "x": 25581.0,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Init.IteSimp": {
+    "x": 24825.6,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Init.Logic": {
+    "x": 23818.2,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Init.Meta": {
+    "x": 25077.4,
+    "y": 27233.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Init.Order": {
+    "x": 21048.1,
+    "y": 28492.7,
+    "w": 1251.8,
+    "h": 2007.3,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Init.Propext": {
+    "x": 24070.1,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Init.Quot": {
+    "x": 21048.1,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Init.Set": {
+    "x": 21048.1,
+    "y": 27233.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Init.ZeroOne": {
+    "x": 25329.2,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Lean.CoreM": {
+    "x": 22307.2,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Lean.Data": {
+    "x": 20796.2,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Lean.Elab": {
+    "x": 20796.2,
+    "y": 31766.5,
+    "w": 1251.9,
+    "h": 10821.4,
+    "color": "#854F0B"
+  },
+  "Mathlib.Lean.EnvExtension": {
+    "x": 20796.2,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Lean.Exception": {
+    "x": 20796.2,
+    "y": 32018.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Lean.Expr": {
+    "x": 20796.2,
+    "y": 38062.3,
+    "w": 2511.0,
+    "h": 9562.3,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Lean.IO": {
+    "x": 20796.2,
+    "y": 49142.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Lean.Json": {
+    "x": 21048.1,
+    "y": 36803.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Lean.LocalContext": {
+    "x": 20796.2,
+    "y": 48891.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Lean.Message": {
+    "x": 20796.2,
+    "y": 31262.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Lean.Meta": {
+    "x": 20796.2,
+    "y": 33277.5,
+    "w": 1503.7,
+    "h": 14598.9,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Lean.Name": {
+    "x": 21299.9,
+    "y": 39321.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Lean.PrettyPrinter": {
+    "x": 20796.2,
+    "y": 48639.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Lean.SMap": {
+    "x": 20796.2,
+    "y": 31514.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Lean.Thunk": {
+    "x": 21048.1,
+    "y": 37055.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.LinearAlgebra.AdicCompletion": {
+    "x": 34647.0,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.LinearAlgebra.AffineSpace": {
+    "x": 20450.6,
+    "y": 22952.4,
+    "w": 18027.3,
+    "h": 4525.6,
+    "color": "#3B6D11"
+  },
+  "Mathlib.LinearAlgebra.Alternating": {
+    "x": 30222.8,
+    "y": 25218.9,
+    "w": 1173.9,
+    "h": 1251.8,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.LinearAlgebra.AnnihilatingPolynomial": {
+    "x": 37822.2,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.LinearAlgebra.Basic": {
+    "x": 25475.4,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.LinearAlgebra.Basis": {
+    "x": 29229.2,
+    "y": 25218.9,
+    "w": 1877.4,
+    "h": 2007.3,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.LinearAlgebra.BilinearForm": {
+    "x": 37927.9,
+    "y": 24211.5,
+    "w": 1079.2,
+    "h": 4525.7,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.LinearAlgebra.BilinearMap": {
+    "x": 25506.6,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.LinearAlgebra.Charpoly": {
+    "x": 37822.2,
+    "y": 25722.5,
+    "w": 1052.9,
+    "h": 1251.8,
+    "color": "#1E4078"
+  },
+  "Mathlib.LinearAlgebra.CliffordAlgebra": {
+    "x": 38506.9,
+    "y": 23959.7,
+    "w": 4882.9,
+    "h": 3518.3,
+    "color": "#0F6E56"
+  },
+  "Mathlib.LinearAlgebra.Coevaluation": {
+    "x": 37954.3,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.LinearAlgebra.Contraction": {
+    "x": 37927.9,
+    "y": 26981.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.LinearAlgebra.CrossProduct": {
+    "x": 33709.8,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.LinearAlgebra.DFinsupp": {
+    "x": 28638.1,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.LinearAlgebra.Determinant": {
+    "x": 37185.6,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.LinearAlgebra.Dimension": {
+    "x": 35356.7,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.LinearAlgebra.DirectSum": {
+    "x": 29464.2,
+    "y": 25218.9,
+    "w": 1058.7,
+    "h": 1251.8,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.LinearAlgebra.Dual": {
+    "x": 37901.5,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.LinearAlgebra.Eigenspace": {
+    "x": 35790.5,
+    "y": 25218.9,
+    "w": 4056.9,
+    "h": 1251.8,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.LinearAlgebra.ExteriorAlgebra": {
+    "x": 38533.2,
+    "y": 24967.0,
+    "w": 1261.9,
+    "h": 2007.3,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.LinearAlgebra.FiniteDimensional": {
+    "x": 35519.6,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.LinearAlgebra.FiniteSpan": {
+    "x": 28519.2,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.LinearAlgebra.Finrank": {
+    "x": 35383.9,
+    "y": 24715.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.LinearAlgebra.Finsupp": {
+    "x": 27319.0,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.LinearAlgebra.FinsuppVectorSpace": {
+    "x": 29756.9,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.LinearAlgebra.FreeAlgebra": {
+    "x": 37875.1,
+    "y": 24715.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.LinearAlgebra.FreeModule": {
+    "x": 30077.5,
+    "y": 24463.4,
+    "w": 10395.3,
+    "h": 3014.6,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.LinearAlgebra.GeneralLinearGroup": {
+    "x": 20928.2,
+    "y": 24211.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.LinearAlgebra.InvariantBasisNumber": {
+    "x": 32593.0,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.LinearAlgebra.Isomorphisms": {
+    "x": 26924.2,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.LinearAlgebra.Lagrange": {
+    "x": 37265.4,
+    "y": 24715.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.LinearAlgebra.LinearIndependent": {
+    "x": 28608.4,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.LinearAlgebra.LinearPMap": {
+    "x": 27530.7,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.LinearAlgebra.Matrix": {
+    "x": 27891.8,
+    "y": 24211.5,
+    "w": 20379.2,
+    "h": 3770.2,
+    "color": "#0F6E56"
+  },
+  "Mathlib.LinearAlgebra.Multilinear": {
+    "x": 26434.8,
+    "y": 24967.0,
+    "w": 10139.1,
+    "h": 1755.5,
+    "color": "#534AB7"
+  },
+  "Mathlib.LinearAlgebra.Orientation": {
+    "x": 37238.8,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.LinearAlgebra.PID": {
+    "x": 38007.1,
+    "y": 25974.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.LinearAlgebra.PerfectPairing": {
+    "x": 37927.9,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.LinearAlgebra.Pi": {
+    "x": 25537.8,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.LinearAlgebra.PiTensorProduct": {
+    "x": 27500.5,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.LinearAlgebra.Prod": {
+    "x": 27500.5,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.LinearAlgebra.Projection": {
+    "x": 28011.8,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.LinearAlgebra.Projectivization": {
+    "x": 35546.8,
+    "y": 25974.3,
+    "w": 1027.1,
+    "h": 2007.4,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.LinearAlgebra.QuadraticForm": {
+    "x": 38349.4,
+    "y": 24463.4,
+    "w": 6443.3,
+    "h": 2510.9,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.LinearAlgebra.Quotient": {
+    "x": 26893.7,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.LinearAlgebra.QuotientPi": {
+    "x": 26985.1,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.LinearAlgebra.Ray": {
+    "x": 28667.7,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.LinearAlgebra.Reflection": {
+    "x": 37954.3,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.LinearAlgebra.RootSystem": {
+    "x": 38007.1,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.LinearAlgebra.SModEq": {
+    "x": 30656.7,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.LinearAlgebra.SesquilinearForm": {
+    "x": 29405.5,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.LinearAlgebra.Span": {
+    "x": 26404.1,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.LinearAlgebra.StdBasis": {
+    "x": 29698.5,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.LinearAlgebra.SymplecticGroup": {
+    "x": 37105.7,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.LinearAlgebra.TensorAlgebra": {
+    "x": 31517.1,
+    "y": 24967.0,
+    "w": 7463.6,
+    "h": 2007.3,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.LinearAlgebra.TensorPower": {
+    "x": 29669.3,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.LinearAlgebra.TensorProduct": {
+    "x": 26557.5,
+    "y": 24715.2,
+    "w": 11628.1,
+    "h": 2762.8,
+    "color": "#1E4078"
+  },
+  "Mathlib.LinearAlgebra.TensorProductBasis": {
+    "x": 30048.4,
+    "y": 25470.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.LinearAlgebra.Trace": {
+    "x": 37980.7,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.LinearAlgebra.UnitaryGroup": {
+    "x": 37159.0,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.LinearAlgebra.Vandermonde": {
+    "x": 37238.8,
+    "y": 24967.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Logic.Basic": {
+    "x": 4465.8,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Logic.Denumerable": {
+    "x": 22267.6,
+    "y": 23959.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Logic.Embedding": {
+    "x": 8640.3,
+    "y": 23456.0,
+    "w": 2902.4,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Logic.Encodable": {
+    "x": 18631.5,
+    "y": 23707.9,
+    "w": 1071.4,
+    "h": 1251.8,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Logic.Equiv": {
+    "x": 6779.8,
+    "y": 22700.5,
+    "w": 21871.5,
+    "h": 2259.2,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Logic.Function": {
+    "x": 2625.8,
+    "y": 23204.2,
+    "w": 3842.4,
+    "h": 1503.7,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Logic.Hydra": {
+    "x": 26526.8,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Logic.IsEmpty": {
+    "x": 5400.9,
+    "y": 23959.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Logic.Lemmas": {
+    "x": 4984.7,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Logic.Nonempty": {
+    "x": 5195.6,
+    "y": 23959.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Logic.Nontrivial": {
+    "x": 4388.0,
+    "y": 23707.9,
+    "w": 2726.2,
+    "h": 1251.8,
+    "color": "#854F0B"
+  },
+  "Mathlib.Logic.Pairwise": {
+    "x": 11139.1,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Logic.Relation": {
+    "x": 5861.2,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Logic.Relator": {
+    "x": 4542.6,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Logic.Small": {
+    "x": 6896.7,
+    "y": 23204.2,
+    "w": 20936.0,
+    "h": 2007.3,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Logic.Unique": {
+    "x": 5534.9,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Logic.UnivLE": {
+    "x": 6954.8,
+    "y": 23456.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Mathport.Attributes": {
+    "x": 20796.2,
+    "y": 48387.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Mathport.Notation": {
+    "x": 23314.6,
+    "y": 38817.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Mathport.Rename": {
+    "x": 20796.2,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Mathport.Syntax": {
+    "x": 24321.9,
+    "y": 39573.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.MeasureTheory.Category": {
+    "x": 39238.7,
+    "y": 11116.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.MeasureTheory.Constructions": {
+    "x": 36999.1,
+    "y": 11116.2,
+    "w": 14084.5,
+    "h": 2511.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.MeasureTheory.Covering": {
+    "x": 36302.8,
+    "y": 11871.7,
+    "w": 13430.5,
+    "h": 2511.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.MeasureTheory.Decomposition": {
+    "x": 36356.6,
+    "y": 11619.9,
+    "w": 12323.8,
+    "h": 2511.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.MeasureTheory.Function": {
+    "x": 36222.1,
+    "y": 10612.6,
+    "w": 13868.0,
+    "h": 3518.3,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.MeasureTheory.Group": {
+    "x": 36410.3,
+    "y": 8346.1,
+    "w": 13394.4,
+    "h": 5029.3,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.MeasureTheory.Integral": {
+    "x": 37185.6,
+    "y": 10360.7,
+    "w": 16162.7,
+    "h": 4273.9,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.MeasureTheory.Lattice": {
+    "x": 36410.3,
+    "y": 13382.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.MeasureTheory.MeasurableSpace": {
+    "x": 23637.6,
+    "y": 12123.6,
+    "w": 4711.7,
+    "h": 1251.8,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.MeasureTheory.Measure": {
+    "x": 36033.6,
+    "y": 10108.9,
+    "w": 17430.4,
+    "h": 4022.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.MeasureTheory.PiSystem": {
+    "x": 23669.8,
+    "y": 12627.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.MeasureTheory.SetSemiring": {
+    "x": 28430.0,
+    "y": 12375.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.MeasureTheory.Tactic": {
+    "x": 22055.4,
+    "y": 41084.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.ModelTheory.Algebra": {
+    "x": 25537.8,
+    "y": 30255.5,
+    "w": 8643.5,
+    "h": 2007.3,
+    "color": "#854F0B"
+  },
+  "Mathlib.ModelTheory.Basic": {
+    "x": 25319.3,
+    "y": 22952.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.ModelTheory.Bundled": {
+    "x": 27621.1,
+    "y": 22196.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.ModelTheory.Definability": {
+    "x": 25475.4,
+    "y": 18419.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.ModelTheory.DirectLimit": {
+    "x": 33181.3,
+    "y": 21441.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.ModelTheory.ElementaryMaps": {
+    "x": 27530.7,
+    "y": 23204.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.ModelTheory.ElementarySubstructures": {
+    "x": 27560.8,
+    "y": 23456.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.ModelTheory.Encoding": {
+    "x": 27409.8,
+    "y": 22700.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.ModelTheory.FinitelyGenerated": {
+    "x": 27530.7,
+    "y": 22952.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.ModelTheory.Fraisse": {
+    "x": 33320.7,
+    "y": 22196.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.ModelTheory.Graph": {
+    "x": 28638.1,
+    "y": 22700.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.ModelTheory.LanguageMap": {
+    "x": 25350.5,
+    "y": 23204.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.ModelTheory.Order": {
+    "x": 25475.4,
+    "y": 28744.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.ModelTheory.Quotients": {
+    "x": 25506.6,
+    "y": 18671.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.ModelTheory.Satisfiability": {
+    "x": 28280.9,
+    "y": 22448.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.ModelTheory.Semantics": {
+    "x": 25444.2,
+    "y": 21693.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.ModelTheory.Skolem": {
+    "x": 27591.0,
+    "y": 23707.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.ModelTheory.Substructures": {
+    "x": 27500.5,
+    "y": 22448.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.ModelTheory.Syntax": {
+    "x": 25413.0,
+    "y": 22448.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.ModelTheory.Types": {
+    "x": 28310.8,
+    "y": 22700.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.ModelTheory.Ultraproducts": {
+    "x": 26127.0,
+    "y": 21189.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.NumberTheory.ADEInequality": {
+    "x": 23573.1,
+    "y": 28492.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.NumberTheory.ArithmeticFunction": {
+    "x": 33153.4,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.NumberTheory.Basic": {
+    "x": 29990.2,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.NumberTheory.Bernoulli": {
+    "x": 34784.0,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.NumberTheory.BernoulliPolynomials": {
+    "x": 34893.4,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.NumberTheory.Bertrand": {
+    "x": 45985.4,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.NumberTheory.ClassNumber": {
+    "x": 24816.8,
+    "y": 27485.3,
+    "w": 22606.9,
+    "h": 1251.9,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.NumberTheory.Cyclotomic": {
+    "x": 45838.9,
+    "y": 27233.5,
+    "w": 13461.1,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.NumberTheory.Dioph": {
+    "x": 32901.7,
+    "y": 26981.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.NumberTheory.DiophantineApproximation": {
+    "x": 41223.0,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.NumberTheory.DirichletCharacter": {
+    "x": 32339.5,
+    "y": 27485.3,
+    "w": 10367.1,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.NumberTheory.Divisors": {
+    "x": 23508.6,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.NumberTheory.EulerProduct": {
+    "x": 38059.8,
+    "y": 27485.3,
+    "w": 16509.2,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.NumberTheory.FLT": {
+    "x": 20894.2,
+    "y": 25218.9,
+    "w": 13537.8,
+    "h": 2510.9,
+    "color": "#0F6E56"
+  },
+  "Mathlib.NumberTheory.FermatPsp": {
+    "x": 38033.4,
+    "y": 27989.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.NumberTheory.FrobeniusNumber": {
+    "x": 23379.3,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.NumberTheory.FunctionField": {
+    "x": 42364.6,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.NumberTheory.KummerDedekind": {
+    "x": 39965.0,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.NumberTheory.LSeries": {
+    "x": 44016.5,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.NumberTheory.LegendreSymbol": {
+    "x": 29434.9,
+    "y": 26729.8,
+    "w": 19365.6,
+    "h": 2007.4,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.NumberTheory.Liouville": {
+    "x": 44314.1,
+    "y": 27485.3,
+    "w": 5061.3,
+    "h": 1251.9,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.NumberTheory.LucasLehmer": {
+    "x": 31943.6,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.NumberTheory.LucasPrimality": {
+    "x": 33931.3,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.NumberTheory.MaricaSchoenheim": {
+    "x": 33404.2,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.NumberTheory.Modular": {
+    "x": 43368.8,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.NumberTheory.ModularForms": {
+    "x": 35383.9,
+    "y": 27485.3,
+    "w": 18840.8,
+    "h": 1251.9,
+    "color": "#0F6E56"
+  },
+  "Mathlib.NumberTheory.Multiplicity": {
+    "x": 33543.3,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.NumberTheory.NumberField": {
+    "x": 40068.3,
+    "y": 27485.3,
+    "w": 18632.3,
+    "h": 1503.7,
+    "color": "#854F0B"
+  },
+  "Mathlib.NumberTheory.Padics": {
+    "x": 32873.7,
+    "y": 27233.5,
+    "w": 7495.1,
+    "h": 1503.7,
+    "color": "#993C1D"
+  },
+  "Mathlib.NumberTheory.Pell": {
+    "x": 41325.0,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.NumberTheory.PellMatiyasevic": {
+    "x": 32761.5,
+    "y": 27233.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.NumberTheory.PrimeCounting": {
+    "x": 34014.2,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.NumberTheory.PrimesCongruentOne": {
+    "x": 46058.6,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.NumberTheory.Primorial": {
+    "x": 27711.5,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.NumberTheory.PythagoreanTriples": {
+    "x": 33376.4,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.NumberTheory.RamificationInertia": {
+    "x": 39420.8,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.NumberTheory.Rayleigh": {
+    "x": 40814.0,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.NumberTheory.SmoothNumbers": {
+    "x": 32957.7,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.NumberTheory.SumFourSquares": {
+    "x": 38059.8,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.NumberTheory.SumTwoSquares": {
+    "x": 47872.5,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.NumberTheory.VonMangoldt": {
+    "x": 40608.8,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.NumberTheory.WellApproximable": {
+    "x": 49185.0,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.NumberTheory.Wilson": {
+    "x": 38033.4,
+    "y": 27233.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.NumberTheory.ZetaFunction": {
+    "x": 53086.7,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.NumberTheory.ZetaValues": {
+    "x": 50460.0,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.NumberTheory.Zsqrtd": {
+    "x": 32649.2,
+    "y": 26981.7,
+    "w": 16199.3,
+    "h": 1755.5,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Order.Antichain": {
+    "x": 14125.4,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Order.Antisymmetrization": {
+    "x": 10308.9,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Order.Atoms": {
+    "x": 14884.9,
+    "y": 26226.2,
+    "w": 9006.8,
+    "h": 1251.8,
+    "color": "#1E4078"
+  },
+  "Mathlib.Order.Basic": {
+    "x": 6482.3,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Order.Birkhoff": {
+    "x": 23508.6,
+    "y": 27233.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Order.BooleanAlgebra": {
+    "x": 9736.7,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Order.Booleanisation": {
+    "x": 10589.2,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Order.Bounded": {
+    "x": 10911.6,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Order.BoundedOrder": {
+    "x": 9345.7,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Order.Bounds": {
+    "x": 11002.9,
+    "y": 25974.3,
+    "w": 1540.1,
+    "h": 1251.9,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Order.Category": {
+    "x": 16730.3,
+    "y": 25722.5,
+    "w": 24001.8,
+    "h": 2259.2,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Order.Chain": {
+    "x": 14527.4,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Order.Circular": {
+    "x": 10402.8,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Order.Closure": {
+    "x": 11984.0,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Order.CompactlyGenerated": {
+    "x": 24214.3,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Order.Compare": {
+    "x": 7903.4,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Order.CompleteBooleanAlgebra": {
+    "x": 11720.3,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Order.CompleteLattice": {
+    "x": 11587.4,
+    "y": 25974.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Order.CompleteLatticeIntervals": {
+    "x": 14726.5,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Order.CompletePartialOrder": {
+    "x": 16240.0,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Order.Concept": {
+    "x": 11896.4,
+    "y": 26981.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Order.ConditionallyCompleteLattice": {
+    "x": 11940.2,
+    "y": 26226.2,
+    "w": 11886.2,
+    "h": 2007.3,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Order.Copy": {
+    "x": 11984.0,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Order.CountableDenseLinearOrder": {
+    "x": 20894.2,
+    "y": 24463.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Order.Cover": {
+    "x": 14647.1,
+    "y": 25974.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Order.Directed": {
+    "x": 10449.5,
+    "y": 26981.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Order.Disjoint": {
+    "x": 9395.0,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Order.Disjointed": {
+    "x": 22891.7,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Order.Estimator": {
+    "x": 10911.6,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Order.Extension": {
+    "x": 14607.2,
+    "y": 26981.7,
+    "w": 11868.2,
+    "h": 2259.1,
+    "color": "#854F0B"
+  },
+  "Mathlib.Order.Filter": {
+    "x": 22826.4,
+    "y": 25470.7,
+    "w": 14691.2,
+    "h": 3770.1,
+    "color": "#993C1D"
+  },
+  "Mathlib.Order.FixedPoints": {
+    "x": 18416.7,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Order.GaloisConnection": {
+    "x": 11764.5,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Order.GameAdd": {
+    "x": 19898.7,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Order.Grade": {
+    "x": 19269.7,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Order.Height": {
+    "x": 23926.7,
+    "y": 25218.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Order.Heyting": {
+    "x": 9688.3,
+    "y": 25974.3,
+    "w": 4281.9,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Order.Hom": {
+    "x": 10261.9,
+    "y": 25470.7,
+    "w": 2722.1,
+    "h": 2007.3,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Order.Ideal": {
+    "x": 19234.5,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Order.InitialSeg": {
+    "x": 11184.3,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Order.Interval": {
+    "x": 11984.0,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Order.Irreducible": {
+    "x": 21969.4,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Order.Iterate": {
+    "x": 8742.9,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Order.JordanHolder": {
+    "x": 21769.5,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Order.KrullDimension": {
+    "x": 23476.3,
+    "y": 27989.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Order.Lattice": {
+    "x": 9097.0,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Order.LatticeIntervals": {
+    "x": 11048.4,
+    "y": 25974.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Order.LiminfLimsup": {
+    "x": 24022.7,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Order.LocallyFinite": {
+    "x": 23022.2,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Order.Max": {
+    "x": 7903.4,
+    "y": 25974.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Order.MinMax": {
+    "x": 9147.0,
+    "y": 26729.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Order.Minimal": {
+    "x": 14766.2,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Order.ModularLattice": {
+    "x": 14726.5,
+    "y": 27233.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Order.Monotone": {
+    "x": 8691.7,
+    "y": 26226.2,
+    "w": 4292.3,
+    "h": 2762.8,
+    "color": "#854F0B"
+  },
+  "Mathlib.Order.OmegaCompletePartialOrder": {
+    "x": 16202.0,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Order.OrdContinuous": {
+    "x": 11984.0,
+    "y": 27485.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Order.OrderIsoNat": {
+    "x": 23573.1,
+    "y": 28240.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Order.PFilter": {
+    "x": 19269.7,
+    "y": 25974.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Order.PartialSups": {
+    "x": 22859.1,
+    "y": 27737.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Order.Partition": {
+    "x": 23184.8,
+    "y": 26226.2,
+    "w": 1194.5,
+    "h": 1251.8,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Order.PrimeIdeal": {
+    "x": 19304.9,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Order.PropInstances": {
+    "x": 9639.7,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Order.RelClasses": {
+    "x": 7184.2,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Order.RelIso": {
+    "x": 9046.9,
+    "y": 25974.3,
+    "w": 2588.6,
+    "h": 1755.5,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Order.RelSeries": {
+    "x": 18416.7,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Order.SemiconjSup": {
+    "x": 12716.4,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Order.Sublattice": {
+    "x": 22989.6,
+    "y": 25974.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Order.SuccPred": {
+    "x": 14726.5,
+    "y": 26729.8,
+    "w": 9782.1,
+    "h": 2762.9,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Order.SupClosed": {
+    "x": 22957.0,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Order.SupIndep": {
+    "x": 20002.7,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Order.SymmDiff": {
+    "x": 10072.5,
+    "y": 25974.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Order.Synonym": {
+    "x": 7849.4,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Order.ULift": {
+    "x": 6542.4,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Order.UpperLower": {
+    "x": 14726.5,
+    "y": 25974.3,
+    "w": 9458.3,
+    "h": 2007.4,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Order.WellFounded": {
+    "x": 10449.5,
+    "y": 25722.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Order.WellFoundedSet": {
+    "x": 23766.3,
+    "y": 26478.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Order.WithBot": {
+    "x": 9542.2,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Order.Zorn": {
+    "x": 14567.4,
+    "y": 26226.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Order.ZornAtoms": {
+    "x": 15081.9,
+    "y": 27233.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Probability.BorelCantelli": {
+    "x": 49042.6,
+    "y": 10360.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Probability.Cdf": {
+    "x": 47896.5,
+    "y": 9353.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Probability.CondCount": {
+    "x": 36464.0,
+    "y": 9857.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Probability.ConditionalExpectation": {
+    "x": 48375.4,
+    "y": 9605.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Probability.ConditionalProbability": {
+    "x": 36356.6,
+    "y": 9857.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Probability.Density": {
+    "x": 48494.8,
+    "y": 9857.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Probability.Distributions": {
+    "x": 52487.1,
+    "y": 9605.3,
+    "w": 1184.8,
+    "h": 1251.8,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Probability.IdentDistrib": {
+    "x": 48494.8,
+    "y": 9353.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Probability.Independence": {
+    "x": 46229.1,
+    "y": 9605.3,
+    "w": 3623.2,
+    "h": 1503.6,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Probability.Integration": {
+    "x": 46399.4,
+    "y": 9857.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Probability.Kernel": {
+    "x": 45936.6,
+    "y": 9101.6,
+    "w": 3558.2,
+    "h": 2762.8,
+    "color": "#854F0B"
+  },
+  "Mathlib.Probability.Martingale": {
+    "x": 48303.7,
+    "y": 8346.1,
+    "w": 1310.4,
+    "h": 4022.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Probability.Moments": {
+    "x": 48423.1,
+    "y": 10612.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Probability.Notation": {
+    "x": 47968.4,
+    "y": 9857.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Probability.ProbabilityMassFunction": {
+    "x": 36410.3,
+    "y": 9101.6,
+    "w": 10550.7,
+    "h": 2259.1,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Probability.Process": {
+    "x": 48136.2,
+    "y": 9101.6,
+    "w": 1119.6,
+    "h": 2007.3,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Probability.StrongLaw": {
+    "x": 48995.0,
+    "y": 9857.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Probability.Variance": {
+    "x": 48399.3,
+    "y": 10108.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.RepresentationTheory.Action": {
+    "x": 28549.0,
+    "y": 31766.5,
+    "w": 3338.2,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.RepresentationTheory.Basic": {
+    "x": 37954.3,
+    "y": 31766.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.RepresentationTheory.Character": {
+    "x": 44610.9,
+    "y": 32018.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.RepresentationTheory.FdRep": {
+    "x": 44512.0,
+    "y": 31766.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.RepresentationTheory.GroupCohomology": {
+    "x": 47752.4,
+    "y": 31766.5,
+    "w": 2337.7,
+    "h": 1251.8,
+    "color": "#854F0B"
+  },
+  "Mathlib.RepresentationTheory.Invariants": {
+    "x": 44536.8,
+    "y": 31766.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.RepresentationTheory.Maschke": {
+    "x": 32198.4,
+    "y": 31766.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.RepresentationTheory.Rep": {
+    "x": 43418.8,
+    "y": 31766.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.RingTheory.Adjoin": {
+    "x": 31174.2,
+    "y": 34033.0,
+    "w": 7859.2,
+    "h": 1755.5,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.RingTheory.AdjoinRoot": {
+    "x": 37954.3,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.RingTheory.AlgebraTower": {
+    "x": 29346.8,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.RingTheory.Algebraic": {
+    "x": 37742.9,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.RingTheory.AlgebraicIndependent": {
+    "x": 37822.2,
+    "y": 33529.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.RingTheory.Artinian": {
+    "x": 34674.4,
+    "y": 32018.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.RingTheory.Bezout": {
+    "x": 37980.7,
+    "y": 34284.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.RingTheory.ChainOfDivisors": {
+    "x": 32564.9,
+    "y": 34788.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.RingTheory.ClassGroup": {
+    "x": 39420.8,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.RingTheory.Coalgebra": {
+    "x": 28101.6,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.RingTheory.Complex": {
+    "x": 43243.8,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.RingTheory.Congruence": {
+    "x": 18951.8,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.RingTheory.Coprime": {
+    "x": 19759.7,
+    "y": 33529.3,
+    "w": 12328.5,
+    "h": 1251.8,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.RingTheory.DedekindDomain": {
+    "x": 38007.1,
+    "y": 33025.7,
+    "w": 5407.9,
+    "h": 2007.3,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.RingTheory.Derivation": {
+    "x": 31202.8,
+    "y": 34536.6,
+    "w": 4635.9,
+    "h": 3266.5,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.RingTheory.DiscreteValuationRing": {
+    "x": 34784.0,
+    "y": 33529.3,
+    "w": 4617.9,
+    "h": 1755.5,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.RingTheory.Discriminant": {
+    "x": 39861.6,
+    "y": 34284.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.RingTheory.EisensteinCriterion": {
+    "x": 33709.8,
+    "y": 33529.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.RingTheory.Etale": {
+    "x": 37052.4,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.RingTheory.EuclideanDomain": {
+    "x": 32536.8,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.RingTheory.Filtration": {
+    "x": 34866.0,
+    "y": 31262.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.RingTheory.FinitePresentation": {
+    "x": 34756.6,
+    "y": 33025.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.RingTheory.FiniteType": {
+    "x": 34701.8,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.RingTheory.Finiteness": {
+    "x": 31574.1,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.RingTheory.Fintype": {
+    "x": 25537.8,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.RingTheory.Flat": {
+    "x": 32593.0,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.RingTheory.FractionalIdeal": {
+    "x": 37795.8,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.RingTheory.FreeCommRing": {
+    "x": 32226.6,
+    "y": 34284.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.RingTheory.FreeRing": {
+    "x": 27197.8,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.RingTheory.GradedAlgebra": {
+    "x": 31345.8,
+    "y": 33025.7,
+    "w": 4629.5,
+    "h": 2007.3,
+    "color": "#1E4078"
+  },
+  "Mathlib.RingTheory.HahnSeries": {
+    "x": 34838.7,
+    "y": 32270.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.RingTheory.Henselian": {
+    "x": 34948.0,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.RingTheory.Ideal": {
+    "x": 29140.8,
+    "y": 31766.5,
+    "w": 16445.4,
+    "h": 3266.5,
+    "color": "#854F0B"
+  },
+  "Mathlib.RingTheory.Int": {
+    "x": 32593.0,
+    "y": 33025.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.RingTheory.IntegralClosure": {
+    "x": 37690.0,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.RingTheory.IntegralDomain": {
+    "x": 35111.7,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.RingTheory.IntegralRestrict": {
+    "x": 40094.1,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.RingTheory.IntegrallyClosed": {
+    "x": 37848.7,
+    "y": 33025.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.RingTheory.IsAdjoinRoot": {
+    "x": 38401.9,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.RingTheory.IsTensorProduct": {
+    "x": 35628.1,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.RingTheory.Jacobson": {
+    "x": 37980.7,
+    "y": 33025.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.RingTheory.JacobsonIdeal": {
+    "x": 34592.2,
+    "y": 32773.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.RingTheory.Kaehler": {
+    "x": 36999.1,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.RingTheory.LaurentSeries": {
+    "x": 34866.0,
+    "y": 31011.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.RingTheory.LittleWedderburn": {
+    "x": 46107.3,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.RingTheory.LocalProperties": {
+    "x": 39913.3,
+    "y": 33529.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.RingTheory.Localization": {
+    "x": 29932.0,
+    "y": 30759.2,
+    "w": 10981.3,
+    "h": 5029.3,
+    "color": "#3B6D11"
+  },
+  "Mathlib.RingTheory.MatrixAlgebra": {
+    "x": 35628.1,
+    "y": 33529.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.RingTheory.Multiplicity": {
+    "x": 24468.7,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.RingTheory.MvPolynomial": {
+    "x": 31460.1,
+    "y": 33025.7,
+    "w": 4214.3,
+    "h": 2762.8,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.RingTheory.Nakayama": {
+    "x": 34619.6,
+    "y": 32522.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.RingTheory.Nilpotent": {
+    "x": 31773.3,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.RingTheory.Noetherian": {
+    "x": 32283.1,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.RingTheory.NonUnitalSubring": {
+    "x": 24879.8,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.RingTheory.NonUnitalSubsemiring": {
+    "x": 23669.8,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.RingTheory.Norm": {
+    "x": 39316.8,
+    "y": 34284.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.RingTheory.NormTrace": {
+    "x": 39861.6,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.RingTheory.Nullstellensatz": {
+    "x": 39758.0,
+    "y": 33025.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.RingTheory.OreLocalization": {
+    "x": 13012.3,
+    "y": 33781.1,
+    "w": 12361.2,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.RingTheory.Perfection": {
+    "x": 43767.8,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.RingTheory.Polynomial": {
+    "x": 29990.2,
+    "y": 32522.0,
+    "w": 22592.2,
+    "h": 3518.3,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.RingTheory.PolynomialAlgebra": {
+    "x": 36033.6,
+    "y": 33529.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.RingTheory.PowerBasis": {
+    "x": 37822.2,
+    "y": 34284.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.RingTheory.PowerSeries": {
+    "x": 34674.4,
+    "y": 31766.5,
+    "w": 1054.8,
+    "h": 5029.3,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.RingTheory.Prime": {
+    "x": 20928.2,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.RingTheory.PrincipalIdealDomain": {
+    "x": 32480.5,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.RingTheory.QuotientNilpotent": {
+    "x": 31915.3,
+    "y": 33529.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.RingTheory.QuotientNoetherian": {
+    "x": 32452.3,
+    "y": 33529.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.RingTheory.ReesAlgebra": {
+    "x": 34729.2,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.RingTheory.RingHom": {
+    "x": 39654.4,
+    "y": 33277.5,
+    "w": 1800.3,
+    "h": 1503.6,
+    "color": "#993C1D"
+  },
+  "Mathlib.RingTheory.RingHomProperties": {
+    "x": 39628.5,
+    "y": 33529.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.RingTheory.RingInvo": {
+    "x": 14805.8,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.RingTheory.RootsOfUnity": {
+    "x": 38217.9,
+    "y": 34033.0,
+    "w": 6325.7,
+    "h": 1503.6,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.RingTheory.SimpleModule": {
+    "x": 27045.9,
+    "y": 33781.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.RingTheory.Subring": {
+    "x": 25005.7,
+    "y": 33529.3,
+    "w": 1904.9,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.RingTheory.Subsemiring": {
+    "x": 24974.3,
+    "y": 33781.1,
+    "w": 1656.9,
+    "h": 1251.9,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.RingTheory.TensorProduct": {
+    "x": 35601.0,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.RingTheory.Trace": {
+    "x": 39809.8,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.RingTheory.UniqueFactorizationDomain": {
+    "x": 32395.9,
+    "y": 34033.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.RingTheory.Valuation": {
+    "x": 31059.5,
+    "y": 33025.7,
+    "w": 9361.3,
+    "h": 4021.9,
+    "color": "#534AB7"
+  },
+  "Mathlib.RingTheory.WittVector": {
+    "x": 32480.5,
+    "y": 32522.0,
+    "w": 11236.7,
+    "h": 3518.3,
+    "color": "#854F0B"
+  },
+  "Mathlib.RingTheory.ZMod": {
+    "x": 33320.7,
+    "y": 33277.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.SetTheory.Cardinal": {
+    "x": 18702.9,
+    "y": 21441.4,
+    "w": 9616.1,
+    "h": 5532.9,
+    "color": "#3B6D11"
+  },
+  "Mathlib.SetTheory.Game": {
+    "x": 19933.4,
+    "y": 21441.4,
+    "w": 8506.6,
+    "h": 6036.6,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.SetTheory.Lists": {
+    "x": 15160.3,
+    "y": 24715.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.SetTheory.Ordinal": {
+    "x": 25381.8,
+    "y": 17915.7,
+    "w": 2664.1,
+    "h": 7295.8,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.SetTheory.Surreal": {
+    "x": 25693.4,
+    "y": 23204.2,
+    "w": 5674.3,
+    "h": 1251.8,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.SetTheory.ZFC": {
+    "x": 12071.2,
+    "y": 24211.5,
+    "w": 1043.5,
+    "h": 1251.9,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic": {
+    "x": 25329.2,
+    "y": 40580.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.Abel": {
+    "x": 22307.2,
+    "y": 41336.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.ApplyAt": {
+    "x": 21048.1,
+    "y": 41839.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.ApplyCongr": {
+    "x": 21299.9,
+    "y": 38314.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.ApplyFun": {
+    "x": 21803.6,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.ApplyWith": {
+    "x": 20796.2,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.Attr": {
+    "x": 20796.2,
+    "y": 40328.8,
+    "w": 1251.9,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.Backtrack": {
+    "x": 21551.7,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.Basic": {
+    "x": 21048.1,
+    "y": 38566.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.ByContra": {
+    "x": 23314.6,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.CancelDenoms": {
+    "x": 21048.1,
+    "y": 40077.0,
+    "w": 2762.8,
+    "h": 3266.4,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Tactic.Cases": {
+    "x": 21048.1,
+    "y": 39573.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic.CasesM": {
+    "x": 20796.2,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.CategoryTheory": {
+    "x": 22810.9,
+    "y": 39069.6,
+    "w": 3770.1,
+    "h": 2259.2,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.Change": {
+    "x": 21299.9,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.Choose": {
+    "x": 24573.7,
+    "y": 39573.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.Classical": {
+    "x": 20796.2,
+    "y": 40580.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.Clean": {
+    "x": 20796.2,
+    "y": 39573.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.Clear!": {
+    "x": 20796.2,
+    "y": 40832.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.ClearExcept": {
+    "x": 20796.2,
+    "y": 39321.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.Clear_": {
+    "x": 20796.2,
+    "y": 41084.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.Coe": {
+    "x": 20796.2,
+    "y": 39069.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.Common": {
+    "x": 25077.4,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Tactic.ComputeDegree": {
+    "x": 23818.2,
+    "y": 40328.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic.Congr!": {
+    "x": 21551.7,
+    "y": 40580.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.Congrm": {
+    "x": 22307.2,
+    "y": 41084.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.Constructor": {
+    "x": 20796.2,
+    "y": 41336.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.Continuity": {
+    "x": 20796.2,
+    "y": 38817.8,
+    "w": 5281.2,
+    "h": 1503.7,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.Contrapose": {
+    "x": 23314.6,
+    "y": 40328.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.Conv": {
+    "x": 21048.1,
+    "y": 38062.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.Convert": {
+    "x": 21803.6,
+    "y": 40328.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.Core": {
+    "x": 22055.4,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.DefEqTransformations": {
+    "x": 21299.9,
+    "y": 39573.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.DeriveFintype": {
+    "x": 24825.6,
+    "y": 39321.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.DeriveToExpr": {
+    "x": 21551.7,
+    "y": 39069.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Tactic.DeriveTraversable": {
+    "x": 24321.9,
+    "y": 39321.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic.Eqns": {
+    "x": 22055.4,
+    "y": 40328.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.Existsi": {
+    "x": 21299.9,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.Explode": {
+    "x": 20796.2,
+    "y": 40832.5,
+    "w": 1503.7,
+    "h": 1755.4,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.ExtractGoal": {
+    "x": 20796.2,
+    "y": 38566.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.ExtractLets": {
+    "x": 21551.7,
+    "y": 39573.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.FBinop": {
+    "x": 22307.2,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.FailIfNoProgress": {
+    "x": 20796.2,
+    "y": 41839.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.FieldSimp": {
+    "x": 22559.1,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.FinCases": {
+    "x": 22810.9,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.Find": {
+    "x": 20796.2,
+    "y": 38314.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.GCongr": {
+    "x": 20796.2,
+    "y": 39573.3,
+    "w": 5029.4,
+    "h": 3518.3,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Tactic.GeneralizeProofs": {
+    "x": 21048.1,
+    "y": 39321.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic.Group": {
+    "x": 22055.4,
+    "y": 39069.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.GuardGoalNums": {
+    "x": 20796.2,
+    "y": 38062.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.GuardHypNums": {
+    "x": 20796.2,
+    "y": 42343.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.Have": {
+    "x": 21048.1,
+    "y": 40580.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.HaveI": {
+    "x": 20796.2,
+    "y": 37810.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.HelpCmd": {
+    "x": 21048.1,
+    "y": 41084.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.HigherOrder": {
+    "x": 21048.1,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.Hint": {
+    "x": 21803.6,
+    "y": 40832.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.InferParam": {
+    "x": 20796.2,
+    "y": 42595.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.Inhabit": {
+    "x": 21299.9,
+    "y": 38817.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.IntervalCases": {
+    "x": 21803.6,
+    "y": 39573.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Tactic.IrreducibleDef": {
+    "x": 24573.7,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic.LibrarySearch": {
+    "x": 23566.4,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.Lift": {
+    "x": 24573.7,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.LiftLets": {
+    "x": 21299.9,
+    "y": 40328.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.Linarith": {
+    "x": 20796.2,
+    "y": 39825.1,
+    "w": 4525.7,
+    "h": 11828.8,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.LinearCombination": {
+    "x": 21551.7,
+    "y": 38566.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.Lint": {
+    "x": 20796.2,
+    "y": 37558.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.Measurability": {
+    "x": 20796.2,
+    "y": 41336.1,
+    "w": 5281.2,
+    "h": 2511.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.MkIffOfInductiveProp": {
+    "x": 21551.7,
+    "y": 39321.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.ModCases": {
+    "x": 25077.4,
+    "y": 38817.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.Monotonicity": {
+    "x": 20796.2,
+    "y": 37306.8,
+    "w": 4777.5,
+    "h": 3014.7,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.MoveAdd": {
+    "x": 21803.6,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Tactic.NoncommRing": {
+    "x": 22559.1,
+    "y": 40832.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic.Nontriviality": {
+    "x": 23566.4,
+    "y": 40077.0,
+    "w": 1251.8,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.NormNum": {
+    "x": 21299.9,
+    "y": 39573.3,
+    "w": 5281.1,
+    "h": 3770.1,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.NthRewrite": {
+    "x": 20796.2,
+    "y": 43098.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.Observe": {
+    "x": 24321.9,
+    "y": 40580.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.PPWithUniv": {
+    "x": 20796.2,
+    "y": 37055.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.Peel": {
+    "x": 24573.7,
+    "y": 38817.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.Polyrith": {
+    "x": 21803.6,
+    "y": 39321.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.Positivity": {
+    "x": 22055.4,
+    "y": 39069.6,
+    "w": 3518.3,
+    "h": 1251.9,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.ProdAssoc": {
+    "x": 22307.2,
+    "y": 39321.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.ProjectionNotation": {
+    "x": 20796.2,
+    "y": 43350.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.Propose": {
+    "x": 24825.6,
+    "y": 40328.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Tactic.ProxyType": {
+    "x": 22307.2,
+    "y": 39573.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic.PushNeg": {
+    "x": 23062.7,
+    "y": 39069.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.Qify": {
+    "x": 22307.2,
+    "y": 38566.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.RSuffices": {
+    "x": 21299.9,
+    "y": 39069.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.Recall": {
+    "x": 20796.2,
+    "y": 36803.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.Recover": {
+    "x": 20796.2,
+    "y": 43602.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.ReduceModChar": {
+    "x": 20796.2,
+    "y": 36551.3,
+    "w": 3770.2,
+    "h": 3518.3,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.Relation": {
+    "x": 21048.1,
+    "y": 38817.8,
+    "w": 1251.8,
+    "h": 3518.3,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.Rename": {
+    "x": 20796.2,
+    "y": 43854.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.RenameBVar": {
+    "x": 21299.9,
+    "y": 38062.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.Replace": {
+    "x": 21299.9,
+    "y": 40580.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.RewriteSearch": {
+    "x": 23566.4,
+    "y": 40328.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Tactic.Rewrites": {
+    "x": 23818.2,
+    "y": 40580.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic.Rify": {
+    "x": 25077.4,
+    "y": 38566.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.Ring": {
+    "x": 20796.2,
+    "y": 29500.0,
+    "w": 5533.0,
+    "h": 12332.5,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.RunCmd": {
+    "x": 20796.2,
+    "y": 36299.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.Sat": {
+    "x": 25329.2,
+    "y": 40077.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.Says": {
+    "x": 20796.2,
+    "y": 44106.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.ScopedNS": {
+    "x": 21048.1,
+    "y": 38314.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.Set": {
+    "x": 20796.2,
+    "y": 36047.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.SetLike": {
+    "x": 20796.2,
+    "y": 44358.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.SimpIntro": {
+    "x": 20796.2,
+    "y": 35795.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.SimpRw": {
+    "x": 20796.2,
+    "y": 44609.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.Simps": {
+    "x": 20796.2,
+    "y": 35544.0,
+    "w": 1503.7,
+    "h": 3266.5,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Tactic.SlimCheck": {
+    "x": 25077.4,
+    "y": 39573.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic.SolveByElim": {
+    "x": 22055.4,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.SplitIfs": {
+    "x": 22307.2,
+    "y": 40328.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.Spread": {
+    "x": 20796.2,
+    "y": 44861.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.Substs": {
+    "x": 20796.2,
+    "y": 35292.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.SuccessIfFailWithMsg": {
+    "x": 20796.2,
+    "y": 45113.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.SudoSetOption": {
+    "x": 20796.2,
+    "y": 35040.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.SuppressCompilation": {
+    "x": 20796.2,
+    "y": 45365.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.SwapVar": {
+    "x": 21299.9,
+    "y": 41084.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.TFAE": {
+    "x": 20796.2,
+    "y": 50402.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.Tauto": {
+    "x": 23062.7,
+    "y": 40328.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.TermCongr": {
+    "x": 22055.4,
+    "y": 40580.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Tactic.ToAdditive": {
+    "x": 25077.4,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Tactic.ToExpr": {
+    "x": 22055.4,
+    "y": 39573.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Tactic.ToLevel": {
+    "x": 21299.9,
+    "y": 38566.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Tactic.Trace": {
+    "x": 20796.2,
+    "y": 34788.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Tactic.TryThis": {
+    "x": 21048.1,
+    "y": 42091.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Tactic.TypeCheck": {
+    "x": 20796.2,
+    "y": 45617.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Tactic.UnsetOption": {
+    "x": 20796.2,
+    "y": 34536.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Tactic.Use": {
+    "x": 20796.2,
+    "y": 45869.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Tactic.Variable": {
+    "x": 20796.2,
+    "y": 34284.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Tactic.WLOG": {
+    "x": 22307.2,
+    "y": 40580.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Tactic.Widget": {
+    "x": 20796.2,
+    "y": 40580.6,
+    "w": 5281.2,
+    "h": 6540.3,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Tactic.Zify": {
+    "x": 21299.9,
+    "y": 37558.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Testing.SlimCheck": {
+    "x": 18452.6,
+    "y": 39825.1,
+    "w": 8828.5,
+    "h": 1503.7,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Topology.AlexandrovDiscrete": {
+    "x": 24974.3,
+    "y": 14390.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Topology.Algebra": {
+    "x": 24563.9,
+    "y": 28492.7,
+    "w": 17863.0,
+    "h": 4525.6,
+    "color": "#1E4078"
+  },
+  "Mathlib.Topology.Bases": {
+    "x": 24563.9,
+    "y": 13634.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Topology.Basic": {
+    "x": 24373.5,
+    "y": 14893.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Topology.Bornology": {
+    "x": 23990.7,
+    "y": 14641.9,
+    "w": 1032.0,
+    "h": 1503.7,
+    "color": "#854F0B"
+  },
+  "Mathlib.Topology.Category": {
+    "x": 26342.6,
+    "y": 14138.2,
+    "w": 21008.1,
+    "h": 2259.2,
+    "color": "#993C1D"
+  },
+  "Mathlib.Topology.Clopen": {
+    "x": 24595.5,
+    "y": 15397.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Topology.CompactOpen": {
+    "x": 25972.5,
+    "y": 15397.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Topology.Compactification": {
+    "x": 26526.8,
+    "y": 14138.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Topology.Compactness": {
+    "x": 24722.0,
+    "y": 13634.6,
+    "w": 2188.6,
+    "h": 2511.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Topology.CompletelyRegular": {
+    "x": 37185.6,
+    "y": 14390.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Topology.Connected": {
+    "x": 24816.8,
+    "y": 14893.7,
+    "w": 9364.5,
+    "h": 1755.5,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Topology.Constructions": {
+    "x": 24500.5,
+    "y": 14138.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Topology.ContinuousFunction": {
+    "x": 25941.5,
+    "y": 13886.4,
+    "w": 15718.6,
+    "h": 16865.4,
+    "color": "#1E4078"
+  },
+  "Mathlib.Topology.ContinuousOn": {
+    "x": 24532.2,
+    "y": 13886.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Topology.CountableSeparatingOn": {
+    "x": 25381.8,
+    "y": 14893.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Topology.Covering": {
+    "x": 31002.1,
+    "y": 15397.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Topology.DenseEmbedding": {
+    "x": 25319.3,
+    "y": 14390.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Topology.DiscreteQuotient": {
+    "x": 26034.3,
+    "y": 16656.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Topology.DiscreteSubset": {
+    "x": 25319.3,
+    "y": 13634.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Topology.EMetricSpace": {
+    "x": 30048.4,
+    "y": 13382.7,
+    "w": 1723.6,
+    "h": 1755.5,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Topology.ExtendFrom": {
+    "x": 25319.3,
+    "y": 15649.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Topology.ExtremallyDisconnected": {
+    "x": 25941.5,
+    "y": 14390.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Topology.FiberBundle": {
+    "x": 25910.6,
+    "y": 14138.2,
+    "w": 6034.0,
+    "h": 1755.5,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Topology.Filter": {
+    "x": 25350.5,
+    "y": 14138.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Topology.GDelta": {
+    "x": 25475.4,
+    "y": 15145.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Topology.Gluing": {
+    "x": 29640.0,
+    "y": 14893.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Topology.Hom": {
+    "x": 25972.5,
+    "y": 15649.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Topology.Homeomorph": {
+    "x": 25879.6,
+    "y": 14893.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Topology.Homotopy": {
+    "x": 33209.2,
+    "y": 14641.9,
+    "w": 4736.5,
+    "h": 1755.5,
+    "color": "#993C1D"
+  },
+  "Mathlib.Topology.IndicatorConstPointwise": {
+    "x": 25319.3,
+    "y": 15145.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Topology.Inseparable": {
+    "x": 24658.8,
+    "y": 14390.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Topology.Instances": {
+    "x": 26404.1,
+    "y": 13886.4,
+    "w": 17010.9,
+    "h": 3518.3,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Topology.Irreducible": {
+    "x": 24627.2,
+    "y": 14138.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Topology.IsLocalHomeomorph": {
+    "x": 26588.1,
+    "y": 15649.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Topology.List": {
+    "x": 26893.7,
+    "y": 14390.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Topology.LocalAtTarget": {
+    "x": 26496.2,
+    "y": 15145.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Topology.LocalExtr": {
+    "x": 24595.5,
+    "y": 13382.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Topology.LocallyConstant": {
+    "x": 26003.4,
+    "y": 15901.1,
+    "w": 3605.0,
+    "h": 14347.1,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Topology.LocallyFinite": {
+    "x": 24595.5,
+    "y": 15649.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Topology.Maps": {
+    "x": 24468.7,
+    "y": 14390.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Topology.MetricSpace": {
+    "x": 30077.5,
+    "y": 13634.6,
+    "w": 21218.0,
+    "h": 17872.7,
+    "color": "#993C1D"
+  },
+  "Mathlib.Topology.Metrizable": {
+    "x": 30425.6,
+    "y": 14893.7,
+    "w": 9813.1,
+    "h": 2007.4,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Topology.NhdsSet": {
+    "x": 24405.2,
+    "y": 14641.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Topology.NoetherianSpace": {
+    "x": 26526.8,
+    "y": 15901.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Topology.OmegaCompletePartialOrder": {
+    "x": 24595.5,
+    "y": 15145.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Topology.Order": {
+    "x": 24405.2,
+    "y": 25722.5,
+    "w": 16378.7,
+    "h": 2259.2,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Topology.Partial": {
+    "x": 24722.0,
+    "y": 14641.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Topology.PartialHomeomorph": {
+    "x": 26526.8,
+    "y": 14641.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Topology.PartitionOfUnity": {
+    "x": 37451.4,
+    "y": 14390.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Topology.Perfect": {
+    "x": 36464.0,
+    "y": 14893.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Topology.ProperMap": {
+    "x": 26003.4,
+    "y": 14138.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Topology.QuasiSeparated": {
+    "x": 26557.5,
+    "y": 16152.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Topology.Semicontinuous": {
+    "x": 34262.4,
+    "y": 14641.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Topology.SeparatedMap": {
+    "x": 25319.3,
+    "y": 14893.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Topology.Separation": {
+    "x": 25288.0,
+    "y": 14138.2,
+    "w": 15418.2,
+    "h": 1503.7,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Topology.Sequences": {
+    "x": 30483.5,
+    "y": 16152.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Topology.Sets": {
+    "x": 26465.5,
+    "y": 14390.1,
+    "w": 1122.6,
+    "h": 13087.9,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Topology.Sheaves": {
+    "x": 20796.2,
+    "y": 14390.1,
+    "w": 23946.7,
+    "h": 13843.4,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Topology.ShrinkingLemma": {
+    "x": 25319.3,
+    "y": 13886.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Topology.Sober": {
+    "x": 25319.3,
+    "y": 15397.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Topology.Specialization": {
+    "x": 28667.7,
+    "y": 14893.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Topology.Spectral": {
+    "x": 25972.5,
+    "y": 13886.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Topology.StoneCech": {
+    "x": 25350.5,
+    "y": 13382.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Topology.Support": {
+    "x": 25817.6,
+    "y": 14641.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Topology.Tactic": {
+    "x": 21551.7,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Topology.TietzeExtension": {
+    "x": 39342.8,
+    "y": 15145.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Topology.UniformSpace": {
+    "x": 24848.3,
+    "y": 12627.2,
+    "w": 9333.0,
+    "h": 4273.9,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Topology.UnitInterval": {
+    "x": 33097.5,
+    "y": 14641.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Topology.UrysohnsBounded": {
+    "x": 39212.7,
+    "y": 14893.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Topology.UrysohnsLemma": {
+    "x": 37105.7,
+    "y": 14893.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Topology.VectorBundle": {
+    "x": 38611.8,
+    "y": 13634.6,
+    "w": 1052.4,
+    "h": 1503.6,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Util.AddRelatedDecl": {
+    "x": 20796.2,
+    "y": 48135.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Util.AssertExists": {
+    "x": 20796.2,
+    "y": 47380.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Util.AssertNoSorry": {
+    "x": 20796.2,
+    "y": 30003.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Util.AtomM": {
+    "x": 20796.2,
+    "y": 33529.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Util.CompileInductive": {
+    "x": 21048.1,
+    "y": 39825.1,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Util.CountHeartbeats": {
+    "x": 20796.2,
+    "y": 32773.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Util.Delaborators": {
+    "x": 20796.2,
+    "y": 49898.4,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Util.DischargerAsTactic": {
+    "x": 20796.2,
+    "y": 47631.9,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Util.Export": {
+    "x": 20796.2,
+    "y": 50150.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Util.Imports": {
+    "x": 21299.9,
+    "y": 43350.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Util.IncludeStr": {
+    "x": 20796.2,
+    "y": 30255.5,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  },
+  "Mathlib.Util.LongNames": {
+    "x": 21551.7,
+    "y": 41839.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#5A4A1A"
+  },
+  "Mathlib.Util.MemoFix": {
+    "x": 20796.2,
+    "y": 31011.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2E4A6B"
+  },
+  "Mathlib.Util.Qq": {
+    "x": 20796.2,
+    "y": 32270.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1E4078"
+  },
+  "Mathlib.Util.SleepHeartbeats": {
+    "x": 20796.2,
+    "y": 49646.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#0F6E56"
+  },
+  "Mathlib.Util.Superscript": {
+    "x": 20796.2,
+    "y": 30507.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#534AB7"
+  },
+  "Mathlib.Util.Syntax": {
+    "x": 20796.2,
+    "y": 32522.0,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#854F0B"
+  },
+  "Mathlib.Util.SynthesizeUsing": {
+    "x": 20796.2,
+    "y": 47883.8,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#993C1D"
+  },
+  "Mathlib.Util.Tactic": {
+    "x": 21048.1,
+    "y": 39069.6,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#3B6D11"
+  },
+  "Mathlib.Util.TermBeta": {
+    "x": 20796.2,
+    "y": 30759.2,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#6B3FA0"
+  },
+  "Mathlib.Util.Time": {
+    "x": 20796.2,
+    "y": 49394.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#1A6B8A"
+  },
+  "Mathlib.Util.WhatsNew": {
+    "x": 20796.2,
+    "y": 33025.7,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#8A3F1A"
+  },
+  "Mathlib.Util.WithWeakNamespace": {
+    "x": 20796.2,
+    "y": 47128.3,
+    "w": 1000.0,
+    "h": 1000.0,
+    "color": "#2C7A5F"
+  }
+}

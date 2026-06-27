@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Dynamics.Minimal", "short_name": "Minimal", "kind": "def", "module": "Mathlib.Dynamics.Minimal", "namespace": "Mathlib.Dynamics", "doc_string": null, "source_range": null, "deps": ["Mathlib.MeasureTheory.Group.Action"], "used_by_count": 2}]}

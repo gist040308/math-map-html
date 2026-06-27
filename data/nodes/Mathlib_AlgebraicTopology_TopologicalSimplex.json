@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicTopology.TopologicalSimplex", "short_name": "TopologicalSimplex", "kind": "theorem", "module": "Mathlib.AlgebraicTopology.TopologicalSimplex", "namespace": "Mathlib.AlgebraicTopology", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicTopology.SimplicialSet"], "used_by_count": 3}]}

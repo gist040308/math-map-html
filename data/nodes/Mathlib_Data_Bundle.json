@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.Bundle", "short_name": "Bundle", "kind": "def", "module": "Mathlib.Data.Bundle", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.FiberBundle.Trivialization"], "used_by_count": 1}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicGeometry.StructureSheaf", "short_name": "StructureSheaf", "kind": "theorem", "module": "Mathlib.AlgebraicGeometry.StructureSheaf", "namespace": "Mathlib.AlgebraicGeometry", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicGeometry.Spec"], "used_by_count": 6}]}

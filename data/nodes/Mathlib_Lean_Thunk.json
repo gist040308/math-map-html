@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Lean.Thunk", "short_name": "Thunk", "kind": "def", "module": "Mathlib.Lean.Thunk", "namespace": "Mathlib.Lean", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.Estimator", "Mathlib.Data.LazyList.Basic"], "used_by_count": 1}]}

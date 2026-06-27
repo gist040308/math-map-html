@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Data.HashMap", "short_name": "HashMap", "kind": "def", "module": "Mathlib.Data.HashMap", "namespace": "Mathlib.Data", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.Linarith.Preprocessing", "Mathlib.Tactic.Linarith.Frontend"], "used_by_count": 1}]}

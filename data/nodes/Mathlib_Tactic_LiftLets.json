@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.LiftLets", "short_name": "LiftLets", "kind": "def", "module": "Mathlib.Tactic.LiftLets", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.LinearAlgebra.CliffordAlgebra.EvenEquiv"], "used_by_count": 1}]}

@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Util.SynthesizeUsing", "short_name": "SynthesizeUsing", "kind": "def", "module": "Mathlib.Util.SynthesizeUsing", "namespace": "Mathlib.Util", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic.CancelDenoms.Core", "Mathlib.Tactic.Linarith.Datatypes"], "used_by_count": 0}]}

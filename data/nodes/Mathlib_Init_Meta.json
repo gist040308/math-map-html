@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Init.Meta.WellFoundedTactics", "short_name": "WellFoundedTactics", "kind": "def", "module": "Mathlib.Init.Meta.WellFoundedTactics", "namespace": "Mathlib.Init.Meta", "doc_string": null, "source_range": null, "deps": ["Mathlib.Init.Data.Nat.GCD", "Mathlib.NumberTheory.Multiplicity", "Mathlib.Algebra.Order.Floor"], "used_by_count": 1}]}

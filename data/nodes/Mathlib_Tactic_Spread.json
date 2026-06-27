@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.Spread", "short_name": "Spread", "kind": "def", "module": "Mathlib.Tactic.Spread", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Tactic.Common", "Mathlib.Order.Basic", "Mathlib.Algebra.Group.Opposite", "Mathlib.Algebra.Ring.Defs"], "used_by_count": 0}]}

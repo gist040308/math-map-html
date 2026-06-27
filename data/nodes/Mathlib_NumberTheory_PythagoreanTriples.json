@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.NumberTheory.PythagoreanTriples", "short_name": "PythagoreanTriples", "kind": "theorem", "module": "Mathlib.NumberTheory.PythagoreanTriples", "namespace": "Mathlib.NumberTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.NumberTheory.FLT.Four"], "used_by_count": 6}]}

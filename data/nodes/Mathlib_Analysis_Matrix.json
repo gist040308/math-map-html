@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Analysis.Matrix", "short_name": "Matrix", "kind": "theorem", "module": "Mathlib.Analysis.Matrix", "namespace": "Mathlib.Analysis", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.NormedSpace.MatrixExponential", "Mathlib.Analysis.NormedSpace.Star.Matrix"], "used_by_count": 3}]}

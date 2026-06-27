@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Order.Synonym", "short_name": "Synonym", "kind": "lemma", "module": "Mathlib.Order.Synonym", "namespace": "Mathlib.Order", "doc_string": null, "source_range": null, "deps": ["Mathlib.Order.GaloisConnection", "Mathlib.Order.Compare", "Mathlib.Order.Max", "Mathlib.Data.Nat.Cast.Synonym", "Mathlib.Algebra.Group.OrderSynonym"], "used_by_count": 3}]}

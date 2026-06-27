@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Mathport.Attributes", "short_name": "Attributes", "kind": "def", "module": "Mathlib.Mathport.Attributes", "namespace": "Mathlib.Mathport", "doc_string": null, "source_range": null, "deps": ["Mathlib.Init.Logic"], "used_by_count": 0}]}

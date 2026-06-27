@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.SModEq", "short_name": "SModEq", "kind": "theorem", "module": "Mathlib.LinearAlgebra.SModEq", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.LinearAlgebra.AdicCompletion"], "used_by_count": 2}]}

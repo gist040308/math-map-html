@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.CatCommSq", "short_name": "CatCommSq", "kind": "theorem", "module": "Mathlib.CategoryTheory.CatCommSq", "namespace": "Mathlib.CategoryTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.CategoryTheory.Localization.Adjunction", "Mathlib.CategoryTheory.Localization.Equivalence"], "used_by_count": 1}]}

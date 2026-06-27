@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.AlgebraicGeometry.Limits", "short_name": "Limits", "kind": "theorem", "module": "Mathlib.AlgebraicGeometry.Limits", "namespace": "Mathlib.AlgebraicGeometry", "doc_string": null, "source_range": null, "deps": ["Mathlib.AlgebraicGeometry.Morphisms.QuasiCompact"], "used_by_count": 2}]}

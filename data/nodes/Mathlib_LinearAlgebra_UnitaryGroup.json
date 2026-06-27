@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.LinearAlgebra.UnitaryGroup", "short_name": "UnitaryGroup", "kind": "theorem", "module": "Mathlib.LinearAlgebra.UnitaryGroup", "namespace": "Mathlib.LinearAlgebra", "doc_string": null, "source_range": null, "deps": ["Mathlib.Analysis.InnerProductSpace.PiL2", "Mathlib.Analysis.NormedSpace.Star.Matrix"], "used_by_count": 4}]}

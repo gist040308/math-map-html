@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.GroupTheory.Complement", "short_name": "Complement", "kind": "theorem", "module": "Mathlib.GroupTheory.Complement", "namespace": "Mathlib.GroupTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.GroupTheory.HNNExtension", "Mathlib.GroupTheory.Transfer", "Mathlib.GroupTheory.PushoutI"], "used_by_count": 1}]}

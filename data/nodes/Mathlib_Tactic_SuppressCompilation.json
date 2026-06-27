@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Tactic.SuppressCompilation", "short_name": "SuppressCompilation", "kind": "def", "module": "Mathlib.Tactic.SuppressCompilation", "namespace": "Mathlib.Tactic", "doc_string": null, "source_range": null, "deps": ["Mathlib.Tactic", "Mathlib.Analysis.NormedSpace.OperatorNorm", "Mathlib.LinearAlgebra.TensorProduct"], "used_by_count": 0}]}

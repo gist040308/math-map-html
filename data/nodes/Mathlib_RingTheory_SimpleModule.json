@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.RingTheory.SimpleModule", "short_name": "SimpleModule", "kind": "theorem", "module": "Mathlib.RingTheory.SimpleModule", "namespace": "Mathlib.RingTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.Topology.Algebra.Module.Simple", "Mathlib.Algebra.Category.ModuleCat.Simple"], "used_by_count": 2}]}

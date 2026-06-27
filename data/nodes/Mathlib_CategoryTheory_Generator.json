@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.CategoryTheory.Generator", "short_name": "Generator", "kind": "theorem", "module": "Mathlib.CategoryTheory.Generator", "namespace": "Mathlib.CategoryTheory", "doc_string": null, "source_range": null, "deps": ["Mathlib.CategoryTheory.Preadditive.Generator", "Mathlib.CategoryTheory.Adjunction.AdjointFunctorTheorems"], "used_by_count": 7}]}

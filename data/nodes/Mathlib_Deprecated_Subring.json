@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Deprecated.Subring", "short_name": "Subring", "kind": "def", "module": "Mathlib.Deprecated.Subring", "namespace": "Mathlib.Deprecated", "doc_string": null, "source_range": null, "deps": ["Mathlib.Deprecated.Subfield"], "used_by_count": 3}]}

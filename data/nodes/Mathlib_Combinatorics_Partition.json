@@ -1,0 +1,1 @@
+{"nodes": [{"id": "Mathlib.Combinatorics.Partition", "short_name": "Partition", "kind": "theorem", "module": "Mathlib.Combinatorics.Partition", "namespace": "Mathlib.Combinatorics", "doc_string": null, "source_range": null, "deps": ["Mathlib.GroupTheory.Perm.Cycle.Type"], "used_by_count": 3}]}
